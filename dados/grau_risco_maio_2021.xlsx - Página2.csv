@@ -1,0 +1,1333 @@
+codigo,descricao,la,outros_documentos
+01.11-3-01,Cultivo de arroz,Sim,-
+01.11-3-02,Cultivo de milho,Sim,-
+01.11-3-03,Cultivo de trigo,Sim,-
+01.11-3-99,Cultivo de outros cereais não especificados anteriormente,Sim,-
+01.12-1-01,Cultivo de algodão herbáceo,Sim,-
+01.12-1-02,Cultivo de juta,Sim,-
+01.12-1-99,Cultivo de outras fibras de lavoura temporária não especificadas anteriormente,Sim,-
+01.13-0-00,Cultivo de cana-de-açúcar,Sim,-
+01.14-8-00,Cultivo de fumo,Sim,-
+01.15-6-00,Cultivo de soja,Sim,-
+01.16-4-01,Cultivo de amendoim,Sim,-
+01.16-4-02,Cultivo de girassol,Sim,-
+01.16-4-03,Cultivo de mamona,Sim,-
+01.16-4-99,Cultivo de outras oleaginosas de lavoura temporária não especificadas anteriormente,Sim,-
+01.19-9-01,Cultivo de abacaxi,Sim,-
+01.19-9-02,Cultivo de alho,Sim,-
+01.19-9-03,Cultivo de batata-inglesa,Sim,-
+01.19-9-04,Cultivo de cebola,Sim,-
+01.19-9-05,Cultivo de feijão,Sim,-
+01.19-9-06,Cultivo de mandioca,Sim,-
+01.19-9-07,Cultivo de melão,Sim,-
+01.19-9-08,Cultivo de melancia,Sim,-
+01.19-9-09,Cultivo de tomate rasteiro,Sim,-
+01.19-9-99,Cultivo de outras plantas de lavoura temporária não especificadas anteriormente,Sim,-
+01.21-1-01,"Horticultura, exceto morango",Sim,-
+01.21-1-02,Cultivo de morango,Sim,-
+01.22-9-00,Cultivo de flores e plantas ornamentais,Sim,-
+01.31-8-00,Cultivo de laranja,Sim,-
+01.32-6-00,Cultivo de uva,Sim,-
+01.33-4-01,Cultivo de açaí,Sim,-
+01.33-4-02,Cultivo de banana,Sim,-
+01.33-4-03,Cultivo de caju,Sim,-
+01.33-4-04,"Cultivo de cítricos, exceto laranja",Sim,-
+01.33-4-05,Cultivo de coco-da-baía,Sim,-
+01.33-4-06,Cultivo de guaraná,Sim,-
+01.33-4-07,Cultivo de maçã,Sim,-
+01.33-4-08,Cultivo de mamão,Sim,-
+01.33-4-09,Cultivo de maracujá,Sim,-
+01.33-4-10,Cultivo de manga,Sim,-
+01.33-4-11,Cultivo de pêssego,Sim,-
+01.33-4-99,Cultivo de frutas de lavoura permanente não especificadas anteriormente,Sim,-
+01.34-2-00,Cultivo de café,Sim,-
+01.35-1-00,Cultivo de cacau,Sim,-
+01.39-3-01,Cultivo de chá-da-índia,Sim,-
+01.39-3-02,Cultivo de erva-mate,Sim,-
+01.39-3-03,Cultivo de pimenta-do-reino,Sim,-
+01.39-3-04,"Cultivo de plantas para condimento, exceto pimenta-do-reino",Sim,-
+01.39-3-05,Cultivo de dendê,Sim,-
+01.39-3-06,Cultivo de seringueira,Sim,-
+01.39-3-99,Cultivo de outras plantas de lavoura permanente não especificadas anteriormente,Sim,-
+01.41-5-01,"Produção de sementes certificadas, exceto de forrageiras para pasto",Sim,-
+01.41-5-02,Produção de sementes certificadas de forrageiras para formação de pasto,Sim,-
+01.42-3-00,"Produção de mudas e outras formas de propagação vegetal, certificadas",Sim,-
+01.51-2-01,Criação de bovinos para corte,Sim,-
+01.51-2-02,Criação de bovinos para leite,Sim,-
+01.51-2-03,"Criação de bovinos, exceto para corte e leite",Sim,-
+01.52-1-01,Criação de bufalinos,Sim,-
+01.52-1-02,Criação de equinos,Sim,-
+01.52-1-03,Criação de asininos e muares,Sim,-
+01.53-9-01,Criação de caprinos,Sim,-
+01.53-9-02,"Criação de ovinos, inclusive para produção de lã",Sim,-
+01.54-7-00,Criação de suínos,Sim,-
+01.55-5-01,Criação de frangos para corte,Sim,-
+01.55-5-02,Produção de pintos de um dia,Sim,-
+01.55-5-03,"Criação de outros galináceos, exceto para corte",Sim,-
+01.55-5-04,"Criação de aves, exceto galináceos",Sim,-
+01.55-5-05,Produção de ovos,Sim,-
+01.59-8-01,Apicultura,Sim,-
+01.59-8-02,Criação de animais de estimação,Sim,-
+01.59-8-03,Criação de escargô,Sim,-
+01.59-8-04,Criação de bicho-da-seda,Sim,-
+01.59-8-99,Criação de outros animais não especificados anteriormente,Sim,-
+01.61-0-01,Serviço de pulverização e controle de pragas agrícolas,Sim,-
+01.63-6-00,Atividades de pós-colheita,Sim,-
+01.70-9-00,Caça e serviços relacionados,Sim,-
+01.61-0-02,Serviço de poda de árvores para lavouras,Não,-
+01.61-0-03,"Serviço de preparação de terreno, cultivo e colheita",Não,-
+01.61-0-99,Atividades de apoio à agricultura não especificadas anteriormente,Não,-
+01.62-8-01,Serviço de inseminação artificial em animais,Não,-
+01.62-8-02,Serviço de tosquiamento de ovinos,Não,-
+01.62-8-03,Serviço de manejo de animais,Não,-
+01.62-8-99,Atividades de apoio à pecuária não especificadas anteriormente,Não,-
+02.10-1-01,Cultivo de eucalipto,Sim,-
+02.10-1-02,Cultivo de acácia-negra,Sim,-
+02.10-1-03,Cultivo de pinus,Sim,-
+02.10-1-04,Cultivo de teca,Sim,-
+02.10-1-05,"Cultivo de espécies madeireiras, exceto eucalipto, acácia-negra, pinus e teca",Sim,-
+02.10-1-06,Cultivo de mudas em viveiros florestais,Sim,-
+02.10-1-07,Extração de madeira em florestas plantadas,Sim,-
+02.10-1-08,Produção de carvão vegetal - florestas plantadas,Sim,-
+02.10-1-09,Produção de casca de acácia-negra - florestas plantadas,Sim,-
+02.10-1-99,Produção de produtos não madeireiros não especificados anteriormente em florestas plantadas,Sim,-
+02.20-9-01,Extração de madeira em florestas nativas,Sim,-
+02.20-9-02,Produção de carvão vegetal - florestas nativas,Sim,-
+02.20-9-03,Coleta de castanha-do-pará em florestas nativas,Sim,-
+02.20-9-04,Coleta de látex em florestas nativas,Sim,-
+02.20-9-05,Coleta de palmito em florestas nativas,Sim,-
+02.20-9-06,Conservação de florestas nativas,Sim,-
+02.20-9-99,Coleta de produtos não madeireiros não especificados anteriormente em florestas nativas,Sim,-
+02.30-6-00,Atividades de apoio à produção florestal,Não,-
+03.11-6-01,Pesca de peixes em água salgada,Sim,-
+03.11-6-02,Pesca de crustáceos e moluscos em água salgada,Sim,-
+03.11-6-03,Coleta de outros produtos marinhos,Sim,-
+03.11-6-04,Atividades de apoio à pesca em água salgada,Sim,-
+03.12-4-01,Pesca de peixes em água doce,Sim,-
+03.12-4-02,Pesca de crustáceos e moluscos em água doce,Sim,-
+03.12-4-03,Coleta de outros produtos aquáticos de água doce,Sim,-
+03.21-3-01,Criação de peixes em água salgada e salobra,Sim,-
+03.21-3-02,Criação de camarões em água salgada e salobra,Sim,-
+03.21-3-03,Criação de ostras e mexilhões em água salgada e salobra,Sim,-
+03.21-3-04,Criação de peixes ornamentais em água salgada e salobra,Sim,-
+03.21-3-99,Cultivos e semicultivos da aquicultura em água salgada e salobra não especificados anteriormente,Sim,-
+03.22-1-01,Criação de peixes em água doce,Sim,-
+03.22-1-02,Criação de camarões em água doce,Sim,-
+03.22-1-03,Criação de ostras e mexilhões em água doce,Sim,-
+03.22-1-04,Criação de peixes ornamentais em água doce,Sim,-
+03.22-1-05,Ranicultura,Sim,-
+03.22-1-06,Criação de jacaré,Sim,-
+03.22-1-99,Cultivos e semicultivos da aquicultura em água doce não especificados anteriormente,Sim,-
+03.12-4-04,Atividades de apoio à pesca em água doce,Não,-
+03.21-3-05,Atividades de apoio à aquicultura em água salgada e salobra,Não,-
+03.22-1-07,Atividades de apoio à aquicultura em água doce,Não,-
+05.00-3-01,Extração de carvão mineral,Sim,-
+05.00-3-02,Beneficiamento de carvão mineral,Sim,-
+06.00-0-01,Extração de petróleo e gás natural,Sim,-
+06.00-0-02,Extração e beneficiamento de xisto,Sim,-
+06.00-0-03,Extração e beneficiamento de areias betuminosas,Sim,-
+07.10-3-01,Extração de minério de ferro,Sim,-
+07.10-3-02,"Pelotização, sinterização e outros beneficiamentos de minério de ferro",Sim,-
+07.21-9-01,Extração de minério de alumínio,Sim,-
+07.21-9-02,Beneficiamento de minério de alumínio,Sim,-
+07.22-7-01,Extração de minério de estanho,Sim,-
+07.22-7-02,Beneficiamento de minério de estanho,Sim,-
+07.23-5-01,Extração de minério de manganês,Sim,-
+07.23-5-02,Beneficiamento de minério de manganês,Sim,-
+07.24-3-01,Extração de minério de metais preciosos,Sim,-
+07.24-3-02,Beneficiamento de minério de metais preciosos,Sim,-
+07.25-1-00,Extração de minerais radioativos,Sim,-
+07.29-4-01,Extração de minérios de nióbio e titânio,Sim,-
+07.29-4-02,Extração de minério de tungstênio,Sim,-
+07.29-4-03,Extração de minério de níquel,Sim,-
+07.29-4-04,"Extração de minérios de cobre, chumbo, zinco e outros minerais metálicos não ferrosos não especificados anteriormente",Sim,-
+07.29-4-05,"Beneficiamento de minérios de cobre, chumbo, zinco e outros minerais metálicos não ferrosos não especificados anteriormente",Sim,-
+08.10-0-01,Extração de ardósia e beneficiamento associado,Sim,-
+08.10-0-02,Extração de granito e beneficiamento associado,Sim,-
+08.10-0-03,Extração de mármore e beneficiamento associado,Sim,-
+08.10-0-04,Extração de calcário e dolomita e beneficiamento associado,Sim,-
+08.10-0-05,Extração de gesso e caulim,Sim,-
+08.10-0-06,"Extração de areia, cascalho ou pedregulho e beneficiamento associado",Sim,-
+08.10-0-07,Extração de argila e beneficiamento associado,Sim,-
+08.10-0-08,Extração de saibro e beneficiamento associado,Sim,-
+08.10-0-09,Extração de bas e beneficiamento associado,Sim,-
+08.10-0-10,Beneficiamento de gesso e caulim associado à extração,Sim,-
+08.10-0-99,Extração e britamento de pedras e outros materiais para construção e beneficiamento associado,Sim,-
+08.91-6-00,"Extração de minerais para fabricação de adubos, fertilizantes e outros produtos químicos",Sim,Atestado CBSM ocupação industrial
+08.92-4-01,Extração de sal marinho,Sim,-
+08.92-4-02,Extração de sal-gema,Sim,-
+08.92-4-03,Refino e outros tratamentos do sal,Sim,-
+08.93-2-00,Extração de gemas (pedras preciosas e semipreciosas),Sim,-
+08.99-1-01,Extração de grafita,Sim,-
+08.99-1-02,Extração de quartzo,Sim,-
+08.99-1-03,Extração de amianto,Sim,-
+08.99-1-99,Extração de outros minerais não metálicos não especificados anteriormente,Sim,-
+09.10-6-00,Atividades de apoio à extração de petróleo e gás natural,Não,-
+09.90-4-01,Atividades de apoio à extração de minério de ferro,Não,-
+09.90-4-02,Atividades de apoio à extração de minerais metálicos não ferrosos,Não,-
+09.90-4-03,Atividades de apoio à extração de minerais não metálicos,Não,-
+10.11-2-01,Frigorífico - abate de bovinos,Sim,-
+10.11-2-02,Frigorífico - abate de equinos,Sim,-
+10.11-2-03,Frigorífico - abate de ovinos e caprinos,Sim,-
+10.11-2-04,Frigorífico - abate de bufalinos,Sim,-
+10.11-2-05,"Matadouro - abate de reses sob contrato, exceto abate de suínos",Sim,-
+10.12-1-01,Abate de aves,Sim,-
+10.12-1-02,Abate de pequenos animais,Sim,-
+10.12-1-03,Frigorífico - abate de suínos,Sim,-
+10.12-1-04,Matadouro - abate de suínos sob contrato,Sim,-
+10.99-6-04,Fabricação de gelo comum,Sim,Atestado CBSM ocupação industrial
+10.13-9-01,Fabricação de produtos de carne,Sim,Atestado CBSM ocupação industrial
+10.20-1-01,"Preservação de peixes, crustáceos e moluscos",Sim,-
+10.20-1-02,"Fabricação de conservas de peixes, crustáceos e moluscos",Sim,Atestado CBSM ocupação industrial
+10.31-7-00,Fabricação de conservas de frutas,Sim,Atestado CBSM ocupação industrial
+10.32-5-01,Fabricação de conservas de palmito,Sim,Atestado CBSM ocupação industrial
+10.32-5-99,"Fabricação de conservas de legumes e outros vegetais, exceto palmito",Sim,Atestado CBSM ocupação industrial
+10.33-3-01,"Fabricação de sucos concentrados de frutas, hortaliças e legumes",Sim,Atestado CBSM ocupação industrial
+10.33-3-02,"Fabricação de sucos de frutas, hortaliças e legumes, exceto concentrados",Sim,Atestado CBSM ocupação industrial
+10.41-4-00,"Fabricação de óleos vegetais em bruto, exceto óleo de milho",Sim,Atestado CBSM ocupação industrial
+10.42-2-00,"Fabricação de óleos vegetais refinados, exceto óleo de milho",Sim,Atestado CBSM ocupação industrial
+10.43-1-00,Fabricação de margarina e outras gorduras vegetais e de óleos não comestíveis de animais,Sim,Atestado CBSM ocupação industrial
+10.52-0-00,Fabricação de laticínios,Sim,Atestado CBSM ocupação industrial
+10.53-8-00,Fabricação de sorvetes e outros gelados comestíveis,Sim,Atestado CBSM ocupação industrial
+10.61-9-02,Fabricação de produtos do arroz,Sim,Atestado CBSM ocupação industrial
+10.63-5-00,Fabricação de farinha de mandioca e derivados,Sim,Atestado CBSM ocupação industrial
+10.64-3-00,"Fabricação de farinha de milho e derivados, exceto óleos de milho",Sim,Atestado CBSM ocupação industrial
+10.65-1-01,Fabricação de amidos e féculas de vegetais,Sim,Atestado CBSM ocupação industrial
+10.65-1-02,Fabricação de óleo de milho em bruto,Sim,Atestado CBSM ocupação industrial
+10.65-1-03,Fabricação de óleo de milho refinado,Sim,Atestado CBSM ocupação industrial
+10.66-0-00,Fabricação de alimentos para animais,Sim,Atestado CBSM ocupação industrial
+10.71-6-00,Fabricação de açúcar em bruto,Sim,Atestado CBSM ocupação industrial
+10.72-4-01,Fabricação de açúcar de cana refinado,Sim,Atestado CBSM ocupação industrial
+10.72-4-02,Fabricação de açúcar de cereais (dextrose) e de beterraba,Sim,Atestado CBSM ocupação industrial
+10.82-1-00,Fabricação de produtos à base de café,Sim,Atestado CBSM ocupação industrial
+10.91-1-01,Fabricação de produtos de panificação industrial,Sim,Atestado CBSM ocupação industrial
+10.91-1-02,Fabricação de produtos de padaria e confeitaria com predominância de produção própria,Sim,Atestado CBSM ocupação industrial
+10.92-9-00,Fabricação de biscoitos e bolachas,Sim,Atestado CBSM ocupação industrial
+10.93-7-01,Fabricação de produtos derivados do cacau e de chocolates,Sim,Atestado CBSM ocupação industrial
+10.93-7-02,"Fabricação de frutas cristalizadas, balas e semelhantes",Sim,Atestado CBSM ocupação industrial
+10.94-5-00,Fabricação de massas alimentícias,Sim,Atestado CBSM ocupação industrial
+10.95-3-00,"Fabricação de especiarias, molhos, temperos e condimentos",Sim,Atestado CBSM ocupação industrial
+10.96-1-00,Fabricação de alimentos e pratos prontos,Sim,Atestado CBSM ocupação industrial
+10.99-6-01,Fabricação de vinagres,Sim,Atestado CBSM ocupação industrial
+10.99-6-02,Fabricação de pós-alimentícios,Sim,Atestado CBSM ocupação industrial
+10.99-6-03,Fabricação de fermentos e leveduras,Sim,Atestado CBSM ocupação industrial
+10.99-6-05,"Fabricação de produtos para infusão (chá, mate, etc.)",Sim,Atestado CBSM ocupação industrial
+10.99-6-06,Fabricação de adoçantes naturais e artificiais,Sim,Atestado CBSM ocupação industrial
+10.99-6-07,Fabricação de alimentos dietéticos e complementos alimentares,Sim,Atestado CBSM ocupação industrial
+10.99-6-99,Fabricação de outros produtos alimentícios não especificados anteriormente,Sim,Atestado CBSM ocupação industrial
+10.13-9-02,Preparação de subprodutos do abate,Sim,-
+10.51-1-00,Preparação do leite,Sim,-
+10.61-9-01,Beneficiamento de arroz,Sim,-
+10.62-7-00,Moagem de trigo e fabricação de derivados,Sim,Atestado CBSM ocupação industrial
+10.69-4-00,Moagem e fabricação de produtos de origem vegetal não especificados anteriormente,Sim,Atestado CBSM ocupação industrial
+10.81-3-01,Beneficiamento de café,Sim,-
+10.81-3-02,Torrefação e moagem de café,Sim,-
+11.11-9-01,Fabricação de aguardente de cana-de-açúcar,Sim,Atestado CBSM ocupação industrial
+11.11-9-02,Fabricação de outras aguardentes e bebidas destiladas,Sim,Atestado CBSM ocupação industrial
+11.12-7-00,Fabricação de vinho,Sim,Atestado CBSM ocupação industrial
+11.13-5-01,"Fabricação de malte, inclusive malte uísque",Sim,Atestado CBSM ocupação industrial
+11.13-5-02,Fabricação de cervejas e chopes,Sim,Atestado CBSM ocupação industrial
+11.21-6-00,Fabricação de águas envasadas,Sim,Atestado CBSM ocupação industrial
+11.22-4-01,Fabricação de refrigerantes,Sim,Atestado CBSM ocupação industrial
+11.22-4-02,Fabricação de chá mate e outros chás prontos para consumo,Sim,Atestado CBSM ocupação industrial
+11.22-4-03,"Fabricação de refrescos, xaropes e pós para refrescos, exceto refrescos de frutas",Sim,Atestado CBSM ocupação industrial
+11.22-4-04,Fabricação de bebidas isotônicas,Sim,Atestado CBSM ocupação industrial
+11.22-4-99,Fabricação de outras bebidas não alcoólicas não especificadas anteriormente,Sim,Atestado CBSM ocupação industrial
+12.10-7-00,Processamento industrial do fumo,Sim,-
+12.20-4-01,Fabricação de cigarros,Sim,Atestado CBSM ocupação industrial
+12.20-4-02,Fabricação de cigarrilhas e charutos,Sim,Atestado CBSM ocupação industrial
+12.20-4-03,Fabricação de filtros para cigarros,Sim,Atestado CBSM ocupação industrial
+12.20-4-99,"Fabricação de outros produtos do fumo, exceto cigarros, cigarrilhas e charutos",Sim,Atestado CBSM ocupação industrial
+13.11-1-00,Preparação e fiação de fibras de algodão,Sim,-
+13.12-0-00,"Preparação e fiação de fibras têxteis naturais, exceto algodão",Sim,-
+13.40-5-01,"Estamparia e texturização em fios, tecidos, artefatos têxteis e peças do vestuário",Sim,-
+13.40-5-02,"Alvejamento, tingimento e torção em fios, tecidos, artefatos têxteis e peças do vestuário",Sim,-
+13.13-8-00,Fiação de fibras artificiais e sintéticas,Sim,-
+13.21-9-00,Tecelagem de fios de algodão,Sim,-
+13.22-7-00,"Tecelagem de fios de fibras têxteis naturais, exceto algodão",Sim,-
+13.23-5-00,Tecelagem de fios de fibras artificiais e sintéticas,Sim,-
+13.40-5-99,"Outros serviços de acabamento em fios, tecidos, artefatos têxteis e peças do vestuário",Sim,-
+13.14-6-00,Fabricação de linhas para costurar e bordar,Sim,Atestado CBSM ocupação industrial
+13.30-8-00,Fabricação de tecidos de malha,Sim,Atestado CBSM ocupação industrial
+13.51-1-00,Fabricação de artefatos têxteis para uso doméstico,Sim,Atestado CBSM ocupação industrial
+13.52-9-00,Fabricação de artefatos de tapeçaria,Sim,Atestado CBSM ocupação industrial
+13.53-7-00,Fabricação de artefatos de cordoaria,Sim,Atestado CBSM ocupação industrial
+13.54-5-00,"Fabricação de tecidos especiais, inclusive artefatos",Sim,Atestado CBSM ocupação industrial
+13.59-6-00,Fabricação de outros produtos têxteis não especificados anteriormente,Sim,Atestado CBSM ocupação industrial
+14.11-8-01,Confecção de roupas íntimas,Sim,-
+14.11-8-02,Facção de roupas íntimas,Sim,-
+14.12-6-01,"Confecção de peças do vestuário, exceto roupas íntimas e as confeccionadas sob medida",Sim,-
+14.12-6-02,"Confecção, sob medida, de peças do vestuário, exceto roupas íntimas",Sim,-
+14.12-6-03,"Facção de peças do vestuário, exceto roupas íntimas",Sim,-
+14.13-4-01,"Confecção de roupas profissionais, exceto sob medida",Sim,-
+14.13-4-02,"Confecção, sob medida, de roupas profissionais",Sim,-
+14.13-4-03,Facção de roupas profissionais,Sim,-
+14.14-2-00,"Fabricação de acessórios do vestuário, exceto para segurança e proteção",Sim,Atestado CBSM ocupação industrial
+14.21-5-00,Fabricação de meias,Sim,Atestado CBSM ocupação industrial
+14.22-3-00,"Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias",Sim,Atestado CBSM ocupação industrial
+15.10-6-00,Curtimento e outras preparações de couro,Sim,-
+15.31-9-02,Acabamento de calçados de couro sob contrato,Sim,-
+15.21-1-00,"Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material",Sim,Atestado CBSM ocupação industrial
+15.29-7-00,Fabricação de artefatos de couro não especificados anteriormente,Sim,Atestado CBSM ocupação industrial
+15.31-9-01,Fabricação de calçados de couro,Sim,Atestado CBSM ocupação industrial
+15.32-7-00,Fabricação de tênis de qualquer material,Sim,Atestado CBSM ocupação industrial
+15.33-5-00,Fabricação de calçados de material sintético,Sim,Atestado CBSM ocupação industrial
+15.39-4-00,Fabricação de calçados de materiais não especificados anteriormente,Sim,Atestado CBSM ocupação industrial
+15.40-8-00,"Fabricação de partes para calçados, de qualquer material",Sim,Atestado CBSM ocupação industrial
+16.10-2-03,Serrarias com desdobramento de madeira em bruto,Sim,-
+16.10-2-04,Serrarias sem desdobramento de madeira em bruto - Resseragem,Sim,-
+16.10-2-05,Serviço de tratamento de madeira realizado sob contrato,Sim,-
+16.21-8-00,"Fabricação de madeira laminada e de chapas de madeira compensada, prensada e aglomerada",Sim,Atestado CBSM ocupação industrial
+16.22-6-01,Fabricação de casas de madeira pré-fabricadas,Sim,Atestado CBSM ocupação industrial
+16.22-6-02,Fabricação de esquadrias de madeira e de peças de madeira para instalações industriais e comerciais,Sim,Atestado CBSM ocupação industrial
+16.22-6-99,Fabricação de outros artigos de carpintaria para construção,Sim,Atestado CBSM ocupação industrial
+16.23-4-00,Fabricação de artefatos de tanoaria e de embalagens de madeira,Sim,Atestado CBSM ocupação industrial
+16.29-3-01,"Fabricação de artefatos diversos de madeira, exceto móveis",Sim,Atestado CBSM ocupação industrial
+16.29-3-02,"Fabricação de artefatos diversos de cortiça, bambu, palha, vime e outros materiais trançados, exceto móveis",Sim,Atestado CBSM ocupação industrial
+17.10-9-00,Fabricação de celulose e outras pastas para a fabricação de papel,Sim,Atestado CBSM ocupação industrial
+17.21-4-00,Fabricação de papel,Sim,Atestado CBSM ocupação industrial
+17.22-2-00,Fabricação de cartolina e papel-cartão,Sim,Atestado CBSM ocupação industrial
+17.31-1-00,Fabricação de embalagens de papel,Sim,Atestado CBSM ocupação industrial
+17.32-0-00,Fabricação de embalagens de cartolina e papel-cartão,Sim,Atestado CBSM ocupação industrial
+17.33-8-00,Fabricação de chapas e de embalagens de papelão ondulado,Sim,Atestado CBSM ocupação industrial
+17.41-9-01,Fabricação de formulários contínuos,Sim,Atestado CBSM ocupação industrial
+17.41-9-02,"Fabricação de produtos de papel, cartolina, papel-cartão e papelão ondulado para uso comercial e de escritório",Sim,Atestado CBSM ocupação industrial
+17.42-7-01,Fabricação de fraldas descartáveis,Sim,Atestado CBSM ocupação industrial
+17.42-7-02,Fabricação de absorventes higiênicos,Sim,Atestado CBSM ocupação industrial
+17.42-7-99,Fabricação de produtos de papel para uso doméstico e higiênico-sanitário não especificados anteriormente,Sim,Atestado CBSM ocupação industrial
+17.49-4-00,"Fabricação de produtos de pastas celulósicas, papel, cartolina, papel-cartão e papelão ondulado não especificados anteriormente",Sim,Atestado CBSM ocupação industrial
+18.11-3-01,Impressão de jornais,Não,-
+18.11-3-02,"Impressão de livros, revistas e outras publicações periódicas",Não,-
+18.12-1-00,Impressão de material de segurança,Não,-
+18.13-0-01,Impressão de material para uso publicitário,Não,-
+18.13-0-99,Impressão de material para outros usos,Não,-
+18.21-1-00,Serviços de pré-impressão,Não,-
+18.22-9-01,Serviços de encadernação e plastificação,Não,-
+18.22-9-99,"Serviços de acabamentos gráficos, exceto encadernação e plastificação",Não,-
+18.30-0-01,Reprodução de som em qualquer suporte,Não,-
+18.30-0-02,Reprodução de vídeo em qualquer suporte,Não,-
+18.30-0-03,Reprodução de software em qualquer suporte,Não,-
+19.10-1-00,Coquerias,Sim,-
+19.21-7-00,Fabricação de produtos do refino de petróleo,Sim,Atestado CBSM ocupação industrial
+19.22-5-01,Formulação de combustíveis,Sim,-
+19.22-5-02,Rerrefino de óleos lubrificantes,Sim,-
+19.22-5-99,"Fabricação de outros produtos derivados do petróleo, exceto produtos do refino",Sim,Atestado CBSM ocupação industrial
+19.31-4-00,Fabricação de álcool,Sim,Atestado CBSM ocupação industrial
+19.32-2-00,"Fabricação de biocombustíveis, exceto álcool",Sim,Atestado CBSM ocupação industrial
+20.11-8-00,Fabricação de cloro e álcalis,Sim,Atestado CBSM ocupação industrial
+20.12-6-00,Fabricação de intermediários para fertilizantes,Sim,Atestado CBSM ocupação industrial
+20.13-4-01,Fabricação de adubos e fertilizantes organo-minerais,Sim,Atestado CBSM ocupação industrial
+20.13-4-02,"Fabricação de adubos e fertilizantes, exceto organo-minerais",Sim,Atestado CBSM ocupação industrial
+20.14-2-00,Fabricação de gases industriais,Sim,Atestado CBSM ocupação industrial
+20.19-3-01,Elaboração de combustíveis nucleares,Sim,-
+20.19-3-99,Fabricação de outros produtos químicos inorgânicos não especificados anteriormente,Sim,Atestado CBSM ocupação industrial
+20.21-5-00,Fabricação de produtos petroquímicos básicos,Sim,Atestado CBSM ocupação industrial
+20.22-3-00,"Fabricação de intermediários para plastificantes, resinas e fibras",Sim,Atestado CBSM ocupação industrial
+20.29-1-00,Fabricação de produtos químicos orgânicos não especificados anteriormente,Sim,Atestado CBSM ocupação industrial
+20.31-2-00,Fabricação de resinas termoplásticas,Sim,Atestado CBSM ocupação industrial
+20.32-1-00,Fabricação de resinas termofixas,Sim,Atestado CBSM ocupação industrial
+20.33-9-00,Fabricação de elastômeros,Sim,Atestado CBSM ocupação industrial
+20.40-1-00,Fabricação de fibras artificiais e sintéticas,Sim,Atestado CBSM ocupação industrial
+20.51-7-00,Fabricação de defensivos agrícolas,Sim,Atestado CBSM ocupação industrial
+20.52-5-00,Fabricação de desinfestantes domissanitários,Sim,Atestado CBSM ocupação industrial
+20.61-4-00,Fabricação de sabões e detergentes sintéticos,Sim,Atestado CBSM ocupação industrial
+20.62-2-00,Fabricação de produtos de limpeza e polimento,Sim,Atestado CBSM ocupação industrial
+20.63-1-00,"Fabricação de cosméticos, produtos de perfumaria e de higiene pessoal",Sim,Atestado CBSM ocupação industrial
+20.71-1-00,"Fabricação de tintas, vernizes, esmaltes e lacas",Sim,Atestado CBSM ocupação industrial
+20.72-0-00,Fabricação de tintas de impressão,Sim,Atestado CBSM ocupação industrial
+20.73-8-00,"Fabricação de impermeabilizantes, solventes e produtos afins",Sim,Atestado CBSM ocupação industrial
+20.91-6-00,Fabricação de adesivos e selantes,Sim,Atestado CBSM ocupação industrial
+20.92-4-01,"Fabricação de pólvoras, explosivos e detonantes",Sim,Atestado CBSM ocupação industrial
+20.92-4-02,Fabricação de artigos pirotécnicos,Sim,Atestado CBSM ocupação industrial
+20.92-4-03,Fabricação de fósforos de segurança,Sim,Atestado CBSM ocupação industrial
+20.93-2-00,Fabricação de aditivos de uso industrial,Sim,Atestado CBSM ocupação industrial
+20.94-1-00,Fabricação de catalisadores,Sim,Atestado CBSM ocupação industrial
+20.99-1-01,"Fabricação de chapas, filmes, papéis e outros materiais e produtos químicos para fotografia",Sim,Atestado CBSM ocupação industrial
+20.99-1-99,Fabricação de outros produtos químicos não especificados anteriormente,Sim,Atestado CBSM ocupação industrial
+21.10-6-00,Fabricação de produtos farmoquímicos,Sim,Atestado CBSM ocupação industrial
+21.21-1-01,Fabricação de medicamentos alopáticos para uso humano,Sim,Atestado CBSM ocupação industrial
+21.21-1-02,Fabricação de medicamentos homeopáticos para uso humano,Sim,Atestado CBSM ocupação industrial
+21.21-1-03,Fabricação de medicamentos fitoterápicos para uso humano,Sim,Atestado CBSM ocupação industrial
+21.22-0-00,Fabricação de medicamentos para uso veterinário,Sim,Atestado CBSM ocupação industrial
+21.23-8-00,Fabricação de preparações farmacêuticas,Sim,Atestado CBSM ocupação industrial
+22.11-1-00,Fabricação de pneumáticos e de câmaras-de-ar,Sim,Atestado CBSM ocupação industrial
+22.19-6-00,Fabricação de artefatos de borracha não especificados  anteriormente,Sim,Atestado CBSM ocupação industrial
+22.21-8-00,Fabricação de laminados planos e tubulares de material plástico,Sim,Atestado CBSM ocupação industrial
+22.22-6-00,Fabricação de embalagens de material plástico,Sim,Atestado CBSM ocupação industrial
+22.23-4-00,Fabricação de tubos e acessórios de material plástico para uso na construção,Sim,Atestado CBSM ocupação industrial
+22.29-3-01,Fabricação de artefatos de material plástico para uso pessoal e doméstico,Sim,Atestado CBSM ocupação industrial
+22.29-3-02,Fabricação de artefatos de material plástico para usos industriais,Sim,Atestado CBSM ocupação industrial
+22.29-3-03,"Fabricação de artefatos de material plástico para uso na construção, exceto tubos e acessórios",Sim,Atestado CBSM ocupação industrial
+22.29-3-99,Fabricação de artefatos de material plástico para outros usos não especificados anteriormente,Sim,Atestado CBSM ocupação industrial
+22.12-9-00,Reforma de pneumáticos usados,Sim,-
+23.11-7-00,Fabricação de vidro plano e de segurança,Sim,Atestado CBSM ocupação industrial
+23.12-5-00,Fabricação de embalagens de vidro,Sim,Atestado CBSM ocupação industrial
+23.19-2-00,Fabricação de artigos de vidro,Sim,Atestado CBSM ocupação industrial
+23.30-3-01,"Fabricação de estruturas pré-moldadas de concreto armado, em série e sob encomenda",Sim,Atestado CBSM ocupação industrial
+23.30-3-02,Fabricação de artefatos de cimento para uso na construção,Sim,Atestado CBSM ocupação industrial
+23.30-3-03,Fabricação de artefatos de fibrocimento para uso na construção,Sim,Atestado CBSM ocupação industrial
+23.30-3-04,Fabricação de casas pré-moldadas de concreto,Não,Atestado CBSM ocupação industrial
+23.30-3-05,Preparação de massa de concreto e argamassa para construção,Sim,-
+23.30-3-99,"Fabricação de outros artefatos e produtos de concreto, cimento, fibrocimento, gesso e materiais semelhantes",Não,Atestado CBSM ocupação industrial
+23.41-9-00,Fabricação de produtos cerâmicos refratários,Não,Atestado CBSM ocupação industrial
+23.42-7-01,Fabricação de azulejos e pisos,Sim,Atestado CBSM ocupação industrial
+23.42-7-02,"Fabricação de artefatos de cerâmica e barro cozido para uso na construção, exceto azulejos e pisos",Sim,Atestado CBSM ocupação industrial
+23.49-4-01,Fabricação de material sanitário de cerâmica,Sim,Atestado CBSM ocupação industrial
+23.49-4-99,Fabricação de produtos cerâmicos não refratários não especificados anteriormente,Sim,Atestado CBSM ocupação industrial
+23.20-6-00,Fabricação de cimento,Sim,Atestado CBSM ocupação industrial
+23.91-5-01,"Britamento de pedras, exceto associado à extração",Sim,-
+23.91-5-02,"Aparelhamento de pedras para construção, exceto associado à extração",Sim,-
+23.91-5-03,"Aparelhamento de placas e execução de trabalhos em mármore, granito, ardósia e outras pedras",Sim,-
+23.92-3-00,Fabricação de cal e gesso,Sim,Atestado CBSM ocupação industrial
+23.99-1-02,Fabricação de abrasivos,Sim,Atestado CBSM ocupação industrial
+23.99-1-99,Fabricação de outros produtos de minerais não metálicos não especificados anteriormente,Sim,Atestado CBSM ocupação industrial
+23.99-1-01,"Decoração, lapidação, gravação, vitrificação e outros trabalhos em cerâmica, louça, vidro e cristal",Sim,-
+24.11-3-00,Produção de ferro-gusa,Sim,-
+24.12-1-00,Produção de ferroligas,Sim,-
+24.21-1-00,Produção de semiacabados de aço,Sim,-
+24.22-9-01,"Produção de laminados planos de aço ao carbono, revestidos ou não",Sim,-
+24.22-9-02,Produção de laminados planos de aços especiais,Sim,-
+24.23-7-01,Produção de tubos de aço sem costura,Sim,-
+24.23-7-02,"Produção de laminados longos de aço, exceto tubos",Sim,-
+24.24-5-01,Produção de arames de aço,Sim,-
+24.24-5-02,"Produção de relaminados, trefilados e perfilados de aço, exceto arames",Sim,-
+24.31-8-00,Produção de tubos de aço com costura,Sim,-
+24.39-3-00,Produção de outros tubos de ferro e aço,Sim,-
+24.41-5-01,Produção de alumínio e suas ligas em formas primárias,Sim,-
+24.41-5-02,Produção de laminados de alumínio,Sim,-
+24.42-3-00,Metalurgia dos metais preciosos,Sim,-
+24.43-1-00,Metalurgia do cobre,Sim,-
+24.49-1-01,Produção de zinco em formas primárias,Sim,-
+24.49-1-02,Produção de laminados de zinco,Sim,-
+24.49-1-03,Fabricação de ânodos para galvanoplastia,Sim,Atestado CBSM ocupação industrial
+24.49-1-99,Metalurgia de outros metais não ferrosos e suas ligas não especificados anteriormente,Sim,-
+24.51-2-00,Fundição de ferro e aço,Sim,-
+24.52-1-00,Fundição de metais não ferrosos e suas ligas,Sim,-
+25.11-0-00,Fabricação de estruturas metálicas,Não,Atestado CBSM ocupação industrial
+25.12-8-00,Fabricação de esquadrias de metal,Sim,Atestado CBSM ocupação industrial
+25.13-6-00,Fabricação de obras de caldeiraria pesada,Não,Atestado CBSM ocupação industrial
+25.21-7-00,"Fabricação de tanques, reservatórios metálicos e caldeiras para aquecimento central",Sim,Atestado CBSM ocupação industrial
+25.22-5-00,"Fabricação de caldeiras geradoras de vapor, exceto para aquecimento central e para veículos",Sim,Atestado CBSM ocupação industrial
+25.31-4-01,Produção de forjados de aço,Sim,-
+25.31-4-02,Produção de forjados de metais não ferrosos e suas ligas,Sim,-
+25.32-2-01,Produção de artefatos estampados de metal,Sim,-
+25.32-2-02,Metalurgia do pó,Sim,-
+25.41-1-00,Fabricação de artigos de cutelaria,Sim,Atestado CBSM ocupação industrial
+25.42-0-00,"Fabricação de artigos de serralheria, exceto esquadrias",Sim,Atestado CBSM ocupação industrial
+25.43-8-00,Fabricação de ferramentas,Sim,Atestado CBSM ocupação industrial
+25.91-8-00,Fabricação de embalagens metálicas,Sim,Atestado CBSM ocupação industrial
+25.92-6-01,Fabricação de produtos de trefilados de metal padronizados,Sim,Atestado CBSM ocupação industrial
+25.92-6-02,"Fabricação de produtos de trefilados de metal, exceto padronizados",Sim,Atestado CBSM ocupação industrial
+25.93-4-00,Fabricação de artigos de metal para uso doméstico e pessoal,Sim,Atestado CBSM ocupação industrial
+25.99-3-99,Fabricação de outros produtos de metal não especificados anteriormente,Sim,Atestado CBSM ocupação industrial
+25.39-0-01,"Serviços de usinagem, torneiria e solda",Sim,-
+25.99-3-01,Serviços de confecção de armações metálicas para a construção,Não,-
+25.99-3-02,Serviço de corte e dobra de metais,Não,-
+25.39-0-02,Serviços de tratamento e revestimento em metais,Sim,-
+25.50-1-01,"Fabricação de equipamento bélico pesado, exceto veículos militares de combate",Sim,Atestado CBSM ocupação industrial
+25.50-1-02,"Fabricação de armas de fogo, outras armas e munições",Sim,Atestado CBSM ocupação industrial
+26.10-8-00,Fabricação de componentes eletrônicos,Sim,Atestado CBSM ocupação industrial
+26.21-3-00,Fabricação de equipamentos de informática,Sim,Atestado CBSM ocupação industrial
+26.22-1-00,Fabricação de periféricos para equipamentos de informática,Sim,Atestado CBSM ocupação industrial
+26.31-1-00,"Fabricação de equipamentos transmissores de comunicação, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+26.32-9-00,"Fabricação de aparelhos telefônicos e de outros equipamentos de comunicação, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+26.40-0-00,"Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo",Sim,Atestado CBSM ocupação industrial
+26.51-5-00,"Fabricação de aparelhos e equipamentos de medida, teste e controle",Sim,Atestado CBSM ocupação industrial
+26.52-3-00,Fabricação de cronômetros e relógios,Sim,Atestado CBSM ocupação industrial
+26.70-1-01,"Fabricação de equipamentos e instrumentos ópticos, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+26.70-1-02,"Fabricação de aparelhos fotográficos e cinematográficos, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+26.80-9-00,"Fabricação de mídias virgens, magnéticas e ópticas",Sim,Atestado CBSM ocupação industrial
+26.60-4-00,Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação,Sim,Atestado CBSM ocupação industrial
+27.10-4-01,"Fabricação de geradores de corrente contínua e alternada, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+27.10-4-02,"Fabricação de transformadores, indutores, conversores, sincronizadores e semelhantes, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+27.10-4-03,"Fabricação de motores elétricos, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+27.31-7-00,Fabricação de aparelhos e equipamentos para distribuição e controle de energia elétrica,Sim,Atestado CBSM ocupação industrial
+27.32-5-00,Fabricação de material elétrico para instalações em circuito de consumo,Sim,Atestado CBSM ocupação industrial
+27.33-3-00,"Fabricação de fios, cabos e condutores elétricos isolados",Sim,Atestado CBSM ocupação industrial
+27.40-6-01,Fabricação de lâmpadas,Sim,Atestado CBSM ocupação industrial
+27.40-6-02,Fabricação de luminárias e outros equipamentos de iluminação,Sim,Atestado CBSM ocupação industrial
+27.51-1-00,"Fabricação de fogões, refrigeradores e máquinas de lavar e secar para uso doméstico, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+27.59-7-01,"Fabricação de aparelhos elétricos de uso pessoal, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+27.59-7-99,"Fabricação de outros aparelhos eletrodomésticos não especificados anteriormente, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+27.90-2-01,"Fabricação de eletrodos, contatos e outros artigos de carvão e grafita para uso elétrico, eletroímãs e isoladores",Sim,Atestado CBSM ocupação industrial
+27.90-2-02,Fabricação de equipamentos para sinalização e alarme,Sim,Atestado CBSM ocupação industrial
+27.90-2-99,Fabricação de outros equipamentos e aparelhos elétricos não especificados anteriormente,Sim,Atestado CBSM ocupação industrial
+27.21-0-00,"Fabricação de pilhas, baterias e acumuladores elétricos, exceto para veículos automotores",Sim,Atestado CBSM ocupação industrial
+27.22-8-01,Fabricação de baterias e acumuladores para veículos automotores,Sim,Atestado CBSM ocupação industrial
+27.22-8-02,Recondicionamento de baterias e acumuladores para veículos automotores,Sim,-
+28.11-9-00,"Fabricação de motores e turbinas, peças e acessórios, exceto para aviões e veículos rodoviários",Sim,Atestado CBSM ocupação industrial
+28.12-7-00,"Fabricação de equipamentos hidráulicos e pneumáticos, peças e acessórios, exceto válvulas",Sim,Atestado CBSM ocupação industrial
+28.13-5-00,"Fabricação de válvulas, registros e dispositivos semelhantes, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.14-3-01,"Fabricação de compressores para uso industrial, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.14-3-02,"Fabricação de compressores para uso não industrial, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.15-1-01,Fabricação de rolamentos para fins industriais,Sim,Atestado CBSM ocupação industrial
+28.15-1-02,"Fabricação de equipamentos de transmissão para fins industriais, exceto rolamentos",Sim,Atestado CBSM ocupação industrial
+28.21-6-01,"Fabricação de fornos industriais, aparelhos e equipamentos não elétricos para instalações térmicas, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.21-6-02,"Fabricação de estufas e fornos elétricos para fins industriais, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.22-4-01,"Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de pessoas, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.22-4-02,"Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.23-2-00,"Fabricação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.24-1-01,Fabricação de aparelhos e equipamentos de ar condicionado para uso industrial,Sim,Atestado CBSM ocupação industrial
+28.24-1-02,Fabricação de aparelhos e equipamentos de ar condicionado para uso não industrial,Sim,Atestado CBSM ocupação industrial
+28.25-9-00,"Fabricação de máquinas e equipamentos para saneamento básico e ambiental, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.29-1-01,"Fabricação de máquinas de escrever, calcular e outros equipamentos não eletrônicos para escritório, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.29-1-99,"Fabricação de outras máquinas e equipamentos de uso geral não especificados anteriormente, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.31-3-00,"Fabricação de tratores agrícolas, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.32-1-00,"Fabricação de equipamentos para irrigação agrícola, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.33-0-00,"Fabricação de máquinas e equipamentos para a agricultura e pecuária, peças e acessórios, exceto para irrigação",Sim,Atestado CBSM ocupação industrial
+28.40-2-00,"Fabricação de máquinas-ferramenta, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.51-8-00,"Fabricação de máquinas e equipamentos para a prospecção e extração de petróleo, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.52-6-00,"Fabricação de outras máquinas e equipamentos para uso na extração mineral, peças e acessórios, exceto na extração de petróleo",Sim,Atestado CBSM ocupação industrial
+28.53-4-00,"Fabricação de tratores, peças e acessórios, exceto agrícolas",Sim,Atestado CBSM ocupação industrial
+28.54-2-00,"Fabricação de máquinas e equipamentos para terraplenagem, pavimentação e construção, peças e acessórios, exceto tratores",Sim,Atestado CBSM ocupação industrial
+28.61-5-00,"Fabricação de máquinas para a indústria metalúrgica, peças e acessórios, exceto máquinas-ferramenta",Sim,Atestado CBSM ocupação industrial
+28.62-3-00,"Fabricação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.63-1-00,"Fabricação de máquinas e equipamentos para a indústria têxtil, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.64-0-00,"Fabricação de máquinas e equipamentos para as indústrias do vestuário, do couro e de calçados, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.65-8-00,"Fabricação de máquinas e equipamentos para as indústrias de celulose, papel e papelão e artefatos, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.66-6-00,"Fabricação de máquinas e equipamentos para a indústria do plástico, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+28.69-1-00,"Fabricação de máquinas e equipamentos para uso industrial específico não especificados anteriormente, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+29.10-7-01,"Fabricação de automóveis, camionetas e utilitários",Sim,Atestado CBSM ocupação industrial
+29.10-7-02,"Fabricação de chassis com motor para automóveis, camionetas e utilitários",Sim,Atestado CBSM ocupação industrial
+29.10-7-03,"Fabricação de motores para automóveis, camionetas e utilitários",Sim,Atestado CBSM ocupação industrial
+29.20-4-01,Fabricação de caminhões e ônibus,Sim,Atestado CBSM ocupação industrial
+29.20-4-02,Fabricação de motores para caminhões e ônibus,Sim,Atestado CBSM ocupação industrial
+29.30-1-01,"Fabricação de cabines, carrocerias e reboques para caminhões",Sim,Atestado CBSM ocupação industrial
+29.30-1-02,Fabricação de carrocerias para ônibus,Sim,Atestado CBSM ocupação industrial
+29.30-1-03,"Fabricação de cabines, carrocerias e reboques para outros veículos automotores, exceto caminhões e ônibus",Sim,Atestado CBSM ocupação industrial
+29.41-7-00,Fabricação de peças e acessórios para o sistema motor de veículos automotores,Sim,Atestado CBSM ocupação industrial
+29.42-5-00,Fabricação de peças e acessórios para os sistemas de marcha e transmissão de veículos automotores,Sim,Atestado CBSM ocupação industrial
+29.43-3-00,Fabricação de peças e acessórios para o sistema de freios de veículos automotores,Sim,Atestado CBSM ocupação industrial
+29.44-1-00,Fabricação de peças e acessórios para o sistema de direção e suspensão de veículos automotores,Sim,Atestado CBSM ocupação industrial
+29.45-0-00,"Fabricação de material elétrico e eletrônico para veículos automotores, exceto baterias",Sim,Atestado CBSM ocupação industrial
+29.49-2-01,Fabricação de bancos e estofados para veículos automotores,Sim,Atestado CBSM ocupação industrial
+29.49-2-99,Fabricação de outras peças e acessórios para veículos automotores não especificadas anteriormente,Sim,Atestado CBSM ocupação industrial
+29.50-6-00,Recondicionamento e recuperação de motores para veículos automotores,Sim,-
+30.11-3-01,Construção de embarcações de grande porte,Sim,-
+30.11-3-02,"Construção de embarcações para uso comercial e para usos especiais, exceto de grande porte",Sim,-
+30.12-1-00,Construção de embarcações para esporte e lazer,Sim,-
+30.31-8-00,"Fabricação de locomotivas, vagões e outros materiais rodantes",Sim,Atestado CBSM ocupação industrial
+30.32-6-00,Fabricação de peças e acessórios para veículos ferroviários,Sim,Atestado CBSM ocupação industrial
+30.41-5-00,Fabricação de aeronaves,Sim,Atestado CBSM ocupação industrial
+30.42-3-00,"Fabricação de turbinas, motores e outros componentes e peças para aeronaves",Sim,Atestado CBSM ocupação industrial
+30.50-4-00,Fabricação de veículos militares de combate,Sim,Atestado CBSM ocupação industrial
+30.91-1-01,Fabricação de motocicletas,Sim,Atestado CBSM ocupação industrial
+30.91-1-02,Fabricação de peças e acessórios para motocicletas,Sim,Atestado CBSM ocupação industrial
+30.92-0-00,"Fabricação de bicicletas e triciclos não motorizados, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+30.99-7-00,Fabricação de equipamentos de transporte não especificados anteriormente,Sim,Atestado CBSM ocupação industrial
+31.01-2-00,Fabricação de móveis com predominância de madeira,Sim,Atestado CBSM ocupação industrial
+31.02-1-00,Fabricação de móveis com predominância de metal,Sim,Atestado CBSM ocupação industrial
+31.03-9-00,"Fabricação de móveis de outros materiais, exceto madeira e metal",Sim,Atestado CBSM ocupação industrial
+31.04-7-00,Fabricação de colchões,Sim,Atestado CBSM ocupação industrial
+32.11-6-01,Lapidação de gemas,Sim,-
+32.11-6-03,Cunhagem de moedas e medalhas,Sim,-
+32.11-6-02,Fabricação de artefatos de joalheria e ourivesaria,Sim,Atestado CBSM ocupação industrial
+32.12-4-00,Fabricação de bijuterias e artefatos semelhantes,Sim,Atestado CBSM ocupação industrial
+32.40-0-01,Fabricação de jogos eletrônicos,Sim,Atestado CBSM ocupação industrial
+32.20-5-00,"Fabricação de instrumentos musicais, peças e acessórios",Sim,Atestado CBSM ocupação industrial
+32.30-2-00,Fabricação de artefatos para pesca e esporte,Sim,Atestado CBSM ocupação industrial
+32.40-0-02,"Fabricação de mesas de bilhar, de sinuca e acessórios não associada à locação",Sim,Atestado CBSM ocupação industrial
+32.40-0-03,"Fabricação de mesas de bilhar, de sinuca e acessórios associada à locação",Sim,Atestado CBSM ocupação industrial
+32.40-0-99,Fabricação de outros brinquedos e jogos recreativos não especificados anteriormente,Sim,Atestado CBSM ocupação industrial
+32.50-7-01,"Fabricação de instrumentos não eletrônicos e utensílios para uso médico, cirúrgico, odontológico e de laboratório",Sim,Atestado CBSM ocupação industrial
+32.50-7-02,"Fabricação de mobiliário para uso médico, cirúrgico, odontológico e de laboratório",Sim,Atestado CBSM ocupação industrial
+32.50-7-03,Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral sob encomenda,Sim,Atestado CBSM ocupação industrial
+32.50-7-04,"Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral, exceto sob encomenda",Sim,Atestado CBSM ocupação industrial
+32.50-7-05,Fabricação de materiais para medicina e odontologia,Sim,Atestado CBSM ocupação industrial
+32.50-7-07,Fabricação de artigos ópticos,Sim,Atestado CBSM ocupação industrial
+32.91-4-00,"Fabricação de escovas, pincéis e vassouras",Sim,Atestado CBSM ocupação industrial
+32.92-2-01,Fabricação de roupas de proteção e segurança e resistentes a fogo,Sim,Atestado CBSM ocupação industrial
+32.92-2-02,Fabricação de equipamentos e acessórios para segurança pessoal e profissional,Sim,Atestado CBSM ocupação industrial
+32.99-0-01,Fabricação de guarda-chuvas e similares,Sim,Atestado CBSM ocupação industrial
+32.99-0-02,"Fabricação de canetas, lápis e outros artigos para escritório",Sim,Atestado CBSM ocupação industrial
+32.99-0-03,"Fabricação de letras, letreiros e placas de qualquer material, exceto luminosos",Sim,Atestado CBSM ocupação industrial
+32.99-0-04,Fabricação de painéis e letreiros luminosos,Sim,Atestado CBSM ocupação industrial
+32.99-0-05,Fabricação de aviamentos para costura,Sim,Atestado CBSM ocupação industrial
+32.99-0-06,"Fabricação de velas, inclusive decorativas",Sim,Atestado CBSM ocupação industrial
+32.99-0-99,Fabricação de produtos diversos não especificados anteriormente,Sim,Atestado CBSM ocupação industrial
+32.50-7-06,Serviços de prótese dentária,Sim,-
+32.50-7-09,Serviço de laboratório óptico,Não,-
+33.11-2-00,"Manutenção e reparação de tanques, reservatórios metálicos e caldeiras, exceto para veículos",Sim,-
+33.13-9-02,"Manutenção e reparação de baterias e acumuladores elétricos, exceto para veículos",Sim,-
+33.14-7-05,Manutenção e reparação de equipamentos de transmissão para fins industriais,Sim,-
+33.14-7-06,"Manutenção e reparação de máquinas, aparelhos e equipamentos para instalações térmicas",Sim,-
+33.14-7-07,Manutenção e reparação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial,Sim,-
+33.14-7-08,"Manutenção e reparação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas",Sim,-
+33.14-7-10,Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente,Sim,-
+33.14-7-11,Manutenção e reparação de máquinas e equipamentos para agricultura e pecuária,Sim,-
+33.14-7-13,Manutenção e reparação de máquinas-ferramenta,Sim,-
+33.14-7-14,Manutenção e reparação de máquinas e equipamentos para a prospecção e extração de petróleo,Sim,-
+33.14-7-15,"Manutenção e reparação de máquinas e equipamentos para uso na extração mineral, exceto na extração de petróleo",Sim,-
+33.14-7-17,"Manutenção e reparação de máquinas e equipamentos de terraplenagem, pavimentação e construção, exceto tratores",Sim,-
+33.14-7-18,"Manutenção e reparação de máquinas para a indústria metalúrgica, exceto máquinas-ferramenta",Sim,-
+33.14-7-19,"Manutenção e reparação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo",Sim,-
+33.14-7-20,"Manutenção e reparação de máquinas e equipamentos para a indústria têxtil, do vestuário, do couro e calçados",Sim,-
+33.14-7-21,"Manutenção e reparação de máquinas e aparelhos para a indústria de celulose, papel e papelão e artefatos",Sim,-
+33.14-7-22,Manutenção e reparação de máquinas e aparelhos para a indústria do plástico,Sim,-
+33.14-7-99,Manutenção e reparação de outras máquinas e equipamentos para usos industriais não especificados anteriormente,Sim,-
+33.19-8-00,Manutenção e reparação de equipamentos e produtos não especificados anteriormente,Sim,-
+33.12-1-02,"Manutenção e reparação de aparelhos e instrumentos de medida, teste e controle",Sim,-
+33.12-1-04,Manutenção e reparação de equipamentos e instrumentos ópticos,Sim,-
+33.13-9-01,"Manutenção e reparação de geradores, transformadores e motores elétricos",Sim,-
+33.13-9-99,"Manutenção e reparação de máquinas, aparelhos e materiais elétricos não especificados anteriormente",Sim,-
+33.14-7-01,Manutenção e reparação de máquinas motrizes não elétricas,Sim,-
+33.14-7-02,"Manutenção e reparação de equipamentos hidráulicos e pneumáticos, exceto válvulas",Sim,-
+33.14-7-03,Manutenção e reparação de válvulas industriais,Não,-
+33.14-7-04,Manutenção e reparação de compressores,Não,-
+33.14-7-09,"Manutenção e reparação de máquinas de escrever, calcular e de outros equipamentos não eletrônicos para escritório",Não,-
+33.21-0-00,Instalação de máquinas e equipamentos industriais,Não,-
+33.29-5-01,Serviços de montagem de móveis de qualquer material,Não,-
+33.29-5-99,Instalação de outros equipamentos não especificados anteriormente,Não,-
+33.12-1-03,Manutenção e reparação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação,Sim,-
+33.14-7-12,Manutenção e reparação de tratores agrícolas,Sim,-
+33.14-7-16,"Manutenção e reparação de tratores, exceto agrícolas",Sim,-
+33.15-5-00,Manutenção e reparação de veículos ferroviários,Sim,-
+33.16-3-01,"Manutenção e reparação de aeronaves, exceto a manutenção na pista",Sim,-
+33.16-3-02,Manutenção de aeronaves na pista,Sim,-
+33.17-1-01,Manutenção e reparação de embarcações e estruturas flutuantes,Sim,-
+33.17-1-02,Manutenção e reparação de embarcações para esporte e lazer,Sim,-
+35.11-5-01,Geração de energia elétrica,Sim,-
+35.11-5-02,Atividades de coordenação e controle da operação da geração e transmissão de energia elétrica,Não,-
+35.12-3-00,Transmissão de energia elétrica,Sim,-
+35.14-0-00,Distribuição de energia elétrica,Sim,-
+35.13-1-00,Comércio atacadista de energia elétrica,Sim,-
+35.30-1-00,"Produção e distribuição de vapor, água quente e ar condicionado",Não,-
+35.20-4-01,Produção de gás; processamento de gás natural,Sim,-
+35.20-4-02,Distribuição de combustíveis gasosos por redes urbanas,Sim,-
+36.00-6-01,"Captação, tratamento e distribuição de água",Sim,-
+36.00-6-02,Distribuição de água por caminhões,Não,-
+37.01-1-00,Gestão de redes de esgoto,Sim,-
+37.02-9-00,"Atividades relacionadas a esgoto, exceto a gestão de redes",Sim,-
+38.11-4-00,Coleta de resíduos não perigosos,Sim,-
+38.12-2-00,Coleta de resíduos perigosos,Sim,-
+38.21-1-00,Tratamento e disposição de resíduos não perigosos,Sim,-
+38.22-0-00,Tratamento e disposição de resíduos perigosos,Sim,-
+38.31-9-01,Recuperação de sucatas de alumínio,Sim,-
+38.31-9-99,"Recuperação de materiais metálicos, exceto alumínio",Sim,-
+38.32-7-00,Recuperação de materiais plásticos,Sim,-
+38.39-4-01,Usinas de compostagem,Sim,-
+38.39-4-99,Recuperação de materiais não especificados anteriormente,Sim,-
+39.00-5-00,Descontaminação e outros serviços de gestão de resíduos,Sim,-
+41.10-7-00,Incorporação de empreendimentos imobiliários,Não,*** Se for SPE: Contrato de compra e venda ou permuta do terreno. Matrícula atualizada;
+41.20-4-00,Construção de edifícios,Não,*** Se for SPE: Contrato de compra e venda ou permuta do terreno. Matrícula atualizada;
+42.11-1-01,Construção de rodovias e ferrovias,Não,-
+42.11-1-02,Pintura para sinalização em pistas rodoviárias e aeroportos,Não,-
+42.12-0-00,Construção de obras de arte especiais,Não,-
+42.13-8-00,"Obras de urbanização - ruas, praças e calçadas",Não,-
+42.21-9-01,Construção de barragens e represas para geração de energia  elétrica,Sim,-
+42.21-9-02,Construção de estações e redes de distribuição de energia elétrica,Sim,-
+42.21-9-03,Manutenção de redes de distribuição de energia elétrica,Não,-
+42.21-9-04,Construção de estações e redes de telecomunicações,Não,-
+42.21-9-05,Manutenção de estações e redes de telecomunicações,Não,-
+42.22-7-01,"Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obras de irrigação",Sim,-
+42.22-7-02,Obras de irrigação,Não,-
+42.23-5-00,"Construção de redes de transportes por dutos, exceto para água e esgoto",Sim,-
+42.91-0-00,"Obras portuárias, marítimas e fluviais",Não,-
+42.92-8-01,Montagem de estruturas metálicas,Não,-
+42.92-8-02,Obras de montagem industrial,Não,-
+42.99-5-01,Construção de instalações esportivas e recreativas,Não,-
+42.99-5-99,Outras obras de engenharia civil não especificadas anteriormente,Não,-
+43.11-8-01,Demolição de edifícios e outras estruturas,Não,-
+43.11-8-02,Preparação de canteiro e limpeza de terreno,Não,-
+43.12-6-00,Perfurações e sondagens,Não,-
+43.13-4-00,Obras de terraplenagem,Sim,-
+43.19-3-00,Serviços de preparação do terreno não especificados anteriormente,Não,-
+43.21-5-00,Instalação e manutenção elétrica,Não,-
+43.22-3-01,"Instalações hidráulicas, sanitárias e de gás",Não,-
+43.22-3-02,"Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração",Não,-
+43.22-3-03,Instalações de sistema de prevenção contra incêndio,Não,-
+43.29-1-01,Instalação de painéis publicitários,Não,-
+43.29-1-02,"Instalação de equipamentos para orientação à navegação marítima, fluvial e lacustre",Não,-
+43.29-1-03,"Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes",Não,-
+43.29-1-04,"Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos",Não,-
+43.29-1-05,"Tratamentos térmicos, acústicos ou de vibração",Não,-
+43.29-1-99,Outras obras de instalações em construções não especificadas anteriormente,Não,-
+43.30-4-01,Impermeabilização em obras de engenharia civil,Não,-
+43.30-4-02,"Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material",Não,-
+43.30-4-03,Obras de acabamento em gesso e estuque,Não,-
+43.30-4-04,Serviços de pintura de edifícios em geral,Não,-
+43.30-4-05,Aplicação de revestimentos e de resinas em interiores e exteriores,Não,-
+43.30-4-99,Outras obras de acabamento da construção,Não,-
+43.91-6-00,Obras de fundações,Não,-
+43.99-1-01,Administração de obras,Não,-
+43.99-1-02,Montagem e desmontagem de andaimes e outras estruturas temporárias,Não,-
+43.99-1-03,Obras de alvenaria,Não,-
+43.99-1-04,Serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras,Não,-
+43.99-1-05,Perfuração e construção de poços de água,Não,-
+43.99-1-99,Serviços especializados para construção não especificados anteriormente,Não,-
+45.11-1-01,"Comércio a varejo de automóveis, camionetas e utilitários novos",Não,-
+45.11-1-02,"Comércio a varejo de automóveis, camionetas e utilitários usados",Não,-
+45.11-1-03,"Comércio por atacado de automóveis, camionetas e utilitários novos e usados",Não,-
+45.11-1-04,Comércio por atacado de caminhões novos e usados,Não,-
+45.11-1-05,Comércio por atacado de reboques e semireboques novos e usados,Não,-
+45.11-1-06,Comércio por atacado de ônibus e micro-ônibus novos e usados,Não,-
+45.12-9-02,Comércio sob consignação de veículos automotores,Não,-
+45.20-0-03,Serviços de manutenção e reparação elétrica de veículos automotores,Sim,-
+45.20-0-04,Serviços de alinhamento e balanceamento de veículos automotores,Sim,-
+45.20-0-07,"Serviços de instalação, manutenção e reparação de acessórios para veículos automotores",Sim,-
+45.20-0-08,Serviços de capotaria,Não,-
+45.30-7-01,Comércio por atacado de peças e acessórios novos para veículos automotores,Não,-
+45.30-7-03,Comércio a varejo de peças e acessórios novos para veículos automotores,Não,-
+45.41-2-01,Comércio por atacado de motocicletas e motonetas,Não,-
+45.41-2-02,Comércio por atacado de peças e acessórios para motocicletas e motonetas,Não,-
+45.41-2-03,Comércio a varejo de motocicletas e motonetas novas,Não,-
+45.41-2-04,Comércio a varejo de motocicletas e motonetas usadas,Não,-
+45.41-2-06,Comércio a varejo de peças e acessórios novos para motocicletas e motonetas,Não,-
+45.41-2-07,Comércio a varejo de peças e acessórios usados para motocicletas e motonetas,Não,-
+45.42-1-02,Comércio sob consignação de motocicletas e motonetas,Não,-
+45.12-9-01,Representantes comerciais e agentes do comércio de veículos automotores,Não,-
+45.30-7-06,Representantes comerciais e agentes do comércio de peças e acessórios novos e usados para veículos automotores,Não,-
+45.42-1-01,"Representantes comerciais e agentes do comércio de motocicletas e motonetas, peças e acessórios",Não,-
+45.20-0-01,Serviços de manutenção e reparação mecânica de veículos automotores,Sim,-
+45.20-0-02,Serviços de lanternagem ou funilaria e pintura de veículos automotores,Sim,-
+45.20-0-05,"Serviços de lavagem, lubrificação e polimento de veículos automotores",Sim,-
+45.20-0-06,Serviços de borracharia para veículos automotores,Sim,-
+45.30-7-02,Comércio por atacado de pneumáticos e câmaras-de-ar,Não,-
+45.30-7-04,Comércio a varejo de peças e acessórios usados para veículos automotores,Sim,-
+45.30-7-05,Comércio a varejo de pneumáticos e câmaras-de-ar,"Sim***",Verificar se não é borracharia. Caso seja pedir LA
+45.43-9-00,Manutenção e reparação de motocicletas e motonetas,Sim,-
+46.11-7-00,Representantes comerciais e agentes do comércio de matérias-primas agrícolas e animais vivos,Não,-
+46.12-5-00,"Representantes comerciais e agentes do comércio de combustíveis, minerais, produtos siderúrgicos e químicos",Não,-
+46.13-3-00,"Representantes comerciais e agentes do comércio de madeira, material de construção e ferragens",Não,-
+46.14-1-00,"Representantes comerciais e agentes do comércio de máquinas, equipamentos, embarcações e aeronaves",Não,-
+46.15-0-00,"Representantes comerciais e agentes do comércio de eletrodomésticos, móveis e artigos de uso doméstico",Não,-
+46.16-8-00,"Representantes comerciais e agentes do comércio de têxteis, vestuário, calçados e artigos de viagem",Não,-
+46.17-6-00,"Representantes comerciais e agentes do comércio de produtos alimentícios, bebidas e fumo",Não,-
+46.18-4-01,"Representantes comerciais e agentes do comércio de medicamentos, cosméticos e produtos de perfumaria",Não,-
+46.18-4-02,Representantes comerciais e agentes do comércio de instrumentos e materiais odonto-médico-hospitalares,Não,-
+46.18-4-03,"Representantes comerciais e agentes do comércio de jornais, revistas e outras publicações",Não,-
+46.18-4-99,Outros representantes comerciais e agentes do comércio especializado em produtos não especificados anteriormente,Não,-
+46.19-2-00,Representantes comerciais e agentes do comércio de mercadorias em geral não especializado,Não,-
+46.21-4-00,Comércio atacadista de café em grão,Não,-
+46.22-2-00,Comércio atacadista de soja,Não,-
+46.23-1-05,Comércio atacadista de cacau,Não,-
+46.31-1-00,Comércio atacadista de leite e laticínios,Não,-
+46.32-0-01,Comércio atacadista de cereais e leguminosas beneficiados,Não,-
+46.32-0-02,"Comércio atacadista de farinhas, amidos e féculas",Não,-
+46.32-0-03,"Comércio atacadista de cereais e leguminosas beneficiados, farinhas, amidos e féculas, com atividade de fracionamento e acondicionamento associada",Não,-
+46.33-8-01,"Comércio atacadista de frutas, verduras, raízes, tubérculos, hortaliças e legumes frescos",Não,-
+46.35-4-01,Comércio atacadista de água mineral,Não,-
+46.35-4-02,"Comércio atacadista de cerveja, chope e refrigerante",Não,-
+46.35-4-03,Comércio atacadista de bebidas com atividade de fracionamento e acondicionamento associada,Não,-
+46.35-4-99,Comércio atacadista de bebidas não especificadas anteriormente,Não,-
+46.37-1-01,"Comércio atacadista de café torrado, moído e solúvel",Não,-
+46.37-1-02,Comércio atacadista de açúcar,Não,-
+46.37-1-03,Comércio atacadista de óleos e gorduras,Não,-
+46.37-1-04,"Comércio atacadista de pães, bolos, biscoitos e similares",Não,-
+46.37-1-05,Comércio atacadista de massas alimentícias,Sim,-
+46.37-1-06,Comércio atacadista de sorvetes,Não,-
+46.37-1-07,"Comércio atacadista de chocolates, confeitos, balas, bombons e semelhantes",Não,-
+46.37-1-99,Comércio atacadista especializado em outros produtos alimentícios não especificados anteriormente,Sim,-
+46.39-7-01,Comércio atacadista de produtos alimentícios em geral,Sim,-
+46.39-7-02,"Comércio atacadista de produtos alimentícios em geral, com atividade de fracionamento e acondicionamento associada",Sim,-
+46.86-9-02,Comércio atacadista de embalagens,Não,-
+46.23-1-01,Comércio atacadista de animais vivos,Sim,-
+46.23-1-08,Comércio atacadista de matérias-primas agrícolas com atividade de fracionamento e acondicionamento associada,Não,-
+46.33-8-02,Comércio atacadista de aves vivas e ovos,Sim,-
+46.33-8-03,Comércio atacadista de coelhos e outros pequenos animais vivos para alimentação,Sim,-
+46.74-5-00,Comércio atacadista de cimento,Não,-
+46.79-6-01,"Comércio atacadista de tintas, vernizes e similares",Não,-
+46.79-6-04,Comércio atacadista especializado de materiais de construção não especificados anteriormente,Não,-
+46.79-6-99,Comércio atacadista de materiais de construção em geral,Não,-
+46.81-8-01,"Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado por transportador retalhista (TRR)",Sim,Parecer da defesa civil. Ocupação bombeiros para especial - liquido/gas inflamavel/ combustivel
+46.81-8-02,Comércio atacadista de combustíveis realizado por transportador retalhista (TRR),Sim,Parecer da defesa civil. Ocupação bombeiros para especial - liquido/gas inflamavel/ combustivel. Autorização ANP
+46.81-8-03,"Comércio atacadista de combustíveis de origem vegetal, exceto álcool carburante",Sim,Parecer da defesa civil. Ocupação bombeiros para especial - liquido/gas inflamavel/ combustivel. Autorização ANP
+46.81-8-04,Comércio atacadista de combustíveis de origem mineral em bruto,Sim,Parecer da defesa civil. Ocupação bombeiros para especial - liquido/gas inflamavel/ combustivel. Autorização ANP
+46.81-8-05,Comércio atacadista de lubrificantes,Sim,-
+46.82-6-00,Comércio atacadista de gás liquefeito de petróleo (GLP),Não,Ocupação bombeiro especial - M-8 ou M-9. Autortização ANP
+46.83-4-00,"Comércio atacadista de defensivos agrícolas, adubos, fertilizantes e corretivos do solo",Não,-
+46.84-2-01,Comércio atacadista de resinas e elastômeros,Não,-
+46.84-2-02,Comércio atacadista de solventes,Não,-
+46.84-2-99,Comércio atacadista de outros produtos químicos e petroquímicos não especificados anteriormente,Não,-
+46.86-9-01,Comércio atacadista de papel e papelão em bruto,Não,-
+46.87-7-01,Comércio atacadista de resíduos de papel e papelão,Sim,-
+46.87-7-02,"Comércio atacadista de resíduos e sucatas não metálicos, exceto de papel e papelão",Sim,-
+46.87-7-03,Comércio atacadista de resíduos e sucatas metálicos,Sim,-
+46.23-1-02,"Comércio atacadista de couros, lãs, peles e outros subprodutos não comestíveis de origem animal",Não,-
+46.23-1-03,Comércio atacadista de algodão,Não,-
+46.23-1-04,Comércio atacadista de fumo em folha não beneficiado,Não,-
+46.23-1-06,"Comércio atacadista de sementes, flores, plantas e gramas",Não,-
+46.23-1-07,Comércio atacadista de sisal,Não,-
+46.23-1-09,Comércio atacadista de alimentos para animais,Não,-
+46.23-1-99,Comércio atacadista de matérias-primas agrícolas não especificadas anteriormente,Não,-
+46.36-2-01,Comércio atacadista de fumo beneficiado,Não,-
+46.36-2-02,"Comércio atacadista de cigarros, cigarrilhas e charutos",Não,-
+46.41-9-01,Comércio atacadista de tecidos,Não,-
+46.41-9-02,"Comércio atacadista de artigos de cama, mesa e banho",Não,-
+46.41-9-03,Comércio atacadista de artigos de armarinho,Não,-
+46.42-7-01,"Comércio atacadista de artigos do vestuário e acessórios, exceto profissionais e de segurança",Não,-
+46.42-7-02,Comércio atacadista de roupas e acessórios para uso profissional e de segurança do trabalho,Não,-
+46.43-5-01,Comércio atacadista de calçados,Não,-
+46.43-5-02,"Comércio atacadista de bolsas, malas e artigos de viagem",Não,-
+46.44-3-01,Comércio atacadista de medicamentos e drogas de uso humano,Não,-
+46.44-3-02,Comércio atacadista de medicamentos e drogas de uso veterinário,Não,-
+46.45-1-01,"Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios",Não,-
+46.45-1-02,Comércio atacadista de próteses e artigos de ortopedia,Não,-
+46.45-1-03,Comércio atacadista de produtos odontológicos,Não,-
+46.46-0-01,Comércio atacadista de cosméticos e produtos de perfumaria,Não,-
+46.46-0-02,Comércio atacadista de produtos de higiene pessoal,Não,-
+46.47-8-01,Comércio atacadista de artigos de escritório e de papelaria,Não,-
+46.47-8-02,"Comércio atacadista de livros, jornais e outras publicações",Não,-
+46.49-4-01,Comércio atacadista de equipamentos elétricos de uso pessoal e doméstico,Não,-
+46.49-4-02,Comércio atacadista de aparelhos eletrônicos de uso pessoal e doméstico,Não,-
+46.49-4-03,"Comércio atacadista de bicicletas, triciclos e outros veículos recreativos",Não,-
+46.49-4-04,Comércio atacadista de móveis e artigos de colchoaria,Não,-
+46.49-4-05,Comércio atacadista de artigos de tapeçaria; persianas e cortinas,Não,-
+46.49-4-06,"Comércio atacadista de lustres, luminárias e abajures",Não,-
+46.49-4-07,"Comércio atacadista de filmes, CDs, DVDs, fitas e discos",Não,-
+46.49-4-08,"Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar",Não,-
+46.49-4-09,"Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar, com atividade de fracionamento e acondicionamento associada",Não,-
+46.49-4-10,"Comércio atacadista de jóias, relógios e bijuterias, inclusive pedras preciosas e semipreciosas lapidadas",Não,-
+46.49-4-99,Comércio atacadista de outros equipamentos e artigos de uso pessoal e doméstico não especificados anteriormente,Não,-
+46.51-6-01,Comércio atacadista de equipamentos de informática,Não,-
+46.51-6-02,Comércio atacadista de suprimentos para informática,Não,-
+46.52-4-00,Comércio atacadista de componentes eletrônicos e equipamentos de telefonia e comunicação,Não,-
+46.61-3-00,"Comércio atacadista de máquinas, aparelhos e equipamentos para uso agropecuário; partes e peças",Não,-
+46.62-1-00,"Comércio atacadista de máquinas, equipamentos para terraplenagem, mineração e construção; partes e peças",Não,-
+46.63-0-00,Comércio atacadista de máquinas e equipamentos para uso industrial; partes e peças,Não,-
+46.64-8-00,"Comércio atacadista de máquinas, aparelhos e equipamentos para uso odonto-médico-hospitalar; partes e peças",Não,-
+46.65-6-00,Comércio atacadista de máquinas e equipamentos para uso comercial; partes e peças,Não,-
+46.69-9-01,Comércio atacadista de bombas e compressores; partes e peças,Não,-
+46.69-9-99,Comércio atacadista de outras máquinas e equipamentos não especificados anteriormente; partes e peças,Não,-
+46.71-1-00,Comércio atacadista de madeira e produtos derivados,Não,-
+46.72-9-00,Comércio atacadista de ferragens e ferramentas,Não,-
+46.73-7-00,Comércio atacadista de material elétrico,Não,-
+46.79-6-02,Comércio atacadista de mármores e granitos,Não,-
+46.79-6-03,"Comércio atacadista de vidros, espelhos e vitrais",Não,-
+46.85-1-00,"Comércio atacadista de produtos siderúrgicos e metalúrgicos, exceto para construção",Não,-
+46.89-3-01,"Comércio atacadista de produtos da extração mineral, exceto combustíveis",Sim,Parecer da defesa civil. Ocupação bombeiros para especial - liquido/gas inflamavel/ combustivel. Autorização ANP
+46.89-3-02,Comércio atacadista de fios e fibras beneficiados,Não,-
+46.89-3-99,Comércio atacadista especializado em outros produtos intermediários não especificados anteriormente,Não,-
+46.91-5-00,"Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios",Não,-
+46.92-3-00,"Comércio atacadista de mercadorias em geral, com predominância de insumos agropecuários",Não,-
+46.93-1-00,"Comércio atacadista de mercadorias em geral, sem predominância de alimentos ou de insumos agropecuários",Não,-
+46.34-6-01,Comércio atacadista de carnes bovinas e suínas e derivados,Sim***,-
+46.34-6-02,Comércio atacadista de aves abatidas e derivados,Não,-
+46.34-6-03,Comércio atacadista de pescados e frutos do mar,Não,-
+46.34-6-99,Comércio atacadista de carnes e derivados de outros animais,Não,-
+47.11-3-01,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados",Sim,-
+47.11-3-02,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados",Sim,-
+47.12-1-00,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns",Não,-
+47.13-0-02,"Lojas de variedades, exceto lojas de departamentos ou magazines",Não,-
+47.13-0-04,"Lojas de departamentos ou magazines, exceto lojas francas (Duty free)",Não,-
+47.13-0-05,"Lojas francas (Duty Free) de aeroportos, portos e em fronteiras terrestres",Não,-
+47.22-9-01,Comércio varejista de carnes - açougues,Sim,-
+47.22-9-02,Peixaria,Sim,-
+47.29-6-01,Tabacaria,Não,-
+47.29-6-99,Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente,Não,-
+47.42-3-00,Comércio varejista de material elétrico,Não,-
+47.43-1-00,Comércio varejista de vidros,Não,-
+47.44-0-01,Comércio varejista de ferragens e ferramentas,Não,-
+47.44-0-02,Comércio varejista de madeira e artefatos,Não,-
+47.44-0-03,Comércio varejista de materiais hidráulicos,Não,-
+47.44-0-04,"Comércio varejista de cal, areia, pedra britada, tijolos e telhas",Não,-
+47.44-0-05,Comércio varejista de materiais de construção não especificados anteriormente,Não,-
+47.44-0-06,Comércio varejista de pedras para revestimento,Não,-
+47.44-0-99,Comércio varejista de materiais de construção em geral,Não,-
+47.51-2-01,Comércio varejista especializado de equipamentos e suprimentos de informática,Não,-
+47.51-2-02,Recarga de cartuchos para equipamentos de informática,Não,-
+47.52-1-00,Comércio varejista especializado de equipamentos de telefonia e comunicação,Não,-
+47.53-9-00,Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo,Não,-
+47.54-7-01,Comércio varejista de móveis,Não,-
+47.54-7-02,Comércio varejista de artigos de colchoaria,Não,-
+47.54-7-03,Comércio varejista de artigos de iluminação,Não,-
+47.55-5-01,Comércio varejista de tecidos,Não,-
+47.55-5-02,Comercio varejista de artigos de armarinho,Não,-
+47.55-5-03,"Comercio varejista de artigos de cama, mesa e banho",Não,-
+47.56-3-00,Comércio varejista especializado de instrumentos musicais e acessórios,Não,-
+47.57-1-00,"Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação",Não,-
+47.59-8-01,"Comércio varejista de artigos de tapeçaria, cortinas e persianas",Não,-
+47.59-8-99,Comércio varejista de outros artigos de uso doméstico não especificados anteriormente,Não,-
+47.61-0-01,Comércio varejista de livros,Não,-
+47.61-0-02,Comércio varejista de jornais e revistas,Não,-
+47.61-0-03,Comércio varejista de artigos de papelaria,Não,-
+47.62-8-00,"Comércio varejista de discos, CDs, DVDs e fitas",Não,-
+47.63-6-01,Comércio varejista de brinquedos e artigos recreativos,Não,-
+47.63-6-02,Comércio varejista de artigos esportivos,Não,-
+47.63-6-03,Comércio varejista de bicicletas e triciclos; peças e acessórios,Não,-
+47.63-6-04,"Comércio varejista de artigos de caça, pesca e camping",Não,-
+47.63-6-05,Comércio varejista de embarcações e outros veículos recreativos; peças e acessórios,Não,-
+47.71-7-02,"Comércio varejista de produtos farmacêuticos, com manipulação de fórmulas",Não,-
+47.71-7-03,Comércio varejista de produtos farmacêuticos homeopáticos,Não,-
+47.71-7-04,Comércio varejista de medicamentos veterinários,Não,-
+47.81-4-00,Comércio varejista de artigos do vestuário e acessórios,Não,-
+47.82-2-01,Comércio varejista de calçados,Não,-
+47.82-2-02,Comércio varejista de artigos de viagem,Não,-
+47.83-1-01,Comércio varejista de artigos de joalheria,Não,-
+47.83-1-02,Comércio varejista de artigos de relojoaria,Não,-
+47.85-7-01,Comércio varejista de antiguidades,Não,-
+47.85-7-99,Comércio varejista de outros artigos usados,Não,-
+47.89-0-01,"Comércio varejista de suvenires, bijuterias e artesanatos",Não,-
+47.89-0-02,Comércio varejista de plantas e flores naturais,Não,-
+47.89-0-03,Comércio varejista de objetos de arte,Não,-
+47.89-0-05,Comércio varejista de produtos saneantes domissanitários,Não,-
+47.89-0-07,Comércio varejista de equipamentos para escritório,Não,-
+47.89-0-08,Comércio varejista de artigos fotográficos e para filmagem,Não,-
+47.89-0-99,Comércio varejista de outros produtos não especificados anteriormente,Não,-
+47.21-1-02,Padaria e confeitaria com predominância de revenda,Não,-
+47.21-1-03,Comércio varejista de laticínios e frios,Não,-
+47.21-1-04,"Comércio varejista de doces, balas, bombons e semelhantes",Não,-
+47.23-7-00,Comércio varejista de bebidas,Não,-
+47.24-5-00,Comércio varejista de hortifrutigranjeiros,Não,-
+47.29-6-02,Comércio varejista de mercadorias em lojas de conveniência,Não,-
+47.71-7-01,"Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas",Não,-
+47.72-5-00,"Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal",Não,-
+47.73-3-00,Comércio varejista de artigos médicos e ortopédicos,Não,-
+47.74-1-00,Comércio varejista de artigos de óptica,Não,-
+47.31-8-00,Comércio varejista de combustíveis para veículos automotores,Sim,Parecer da defesa civil. Ocupação bombeiros para especial - liquido/gas inflamavel/ combustivel. Autorização ANP
+47.32-6-00,Comércio varejista de lubrificantes,Sim,-
+47.41-5-00,Comércio varejista de tintas e materiais para pintura,Não,-
+47.84-9-00,Comércio varejista de gás liqüefeito de petróleo (GLP),Não,Ocupação bombeiro especial - M-8 ou M-9. Autortização ANP
+47.89-0-04,Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação,Sim,-
+47.89-0-06,Comércio varejista de fogos de artifício e artigos pirotécnicos,Não,Parecer da defesa civil. Ocupação bombeiros para ocupação explosiva
+47.89-0-09,Comércio varejista de armas e munições,Não,"Autorização da PF. Se tiver portas abertas, bombeiros com ocupação de comércio de armas."
+49.11-6-00,Transporte ferroviário de carga,Não,-
+49.12-4-01,Transporte ferroviário de passageiros intermunicipal e interestadual,Não,-
+49.12-4-02,Transporte ferroviário de passageiros municipal e em região metropolitana,Não,-
+49.12-4-03,Transporte metroviário,Não,-
+49.21-3-01,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal",Não,-
+49.21-3-02,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal em região metropolitana",Não,-
+49.22-1-01,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal, exceto em região metropolitana",Não,-
+49.22-1-02,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, interestadual",Não,-
+49.22-1-03,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, internacional",Não,-
+49.23-0-01,Serviço de táxi,Não,Verificar documentos para autorização
+49.24-8-00,Transporte escolar,Não,"Cópia carteira de habilitação do motorista (categoria D ou E). Certificado de conclusão do curso específico de condutores. Certidão de não ter cometido nenhuma infração grave ou gravíssima, ou ser reincidente em infrações médias, durante os últimos doze meses (do condutor). Certidão de bons antecedentes, civil e criminal do condutor. Seguro de passageiros e terceiros. Documento do veículo em nome do requerente"
+49.30-2-03,Transporte rodoviário de produtos perigosos,Não,Parecer da defesa civil
+49.40-0-00,Transporte dutoviário,Não,-
+49.50-7-00,"Trens turísticos, teleféricos e similares",Não,-
+49.23-0-02,Serviço de transporte de passageiros - locação de automóveis com motorista,Não,Verificar documentos para autorização
+49.29-9-01,"Transporte rodoviário coletivo de passageiros, sob regime de fretamento, municipal",Não,-
+49.29-9-02,"Transporte rodoviário coletivo de passageiros, sob regime de fretamento, intermunicipal, interestadual e internacional",Não,-
+49.29-9-03,"Organização de excursões em veículos rodoviários próprios, municipal",Não,-
+49.29-9-04,"Organização de excursões em veículos rodoviários próprios, intermunicipal, interestadual e internacional",Não,-
+49.29-9-99,Outros transportes rodoviários de passageiros não especificados anteriormente,Não,-
+49.30-2-01,"Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal",Não,-
+49.30-2-02,"Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional",Não,-
+49.30-2-04,Transporte rodoviário de mudanças,Não,-
+50.11-4-01,Transporte marítimo de cabotagem - Carga,Não,Autorização da ANTAC.
+50.11-4-02,Transporte marítimo de cabotagem - Passageiros,Não,Autorização da ANTAC.
+50.12-2-01,Transporte marítimo de longo curso - Carga,Não,Autorização da ANTAC.
+50.12-2-02,Transporte marítimo de longo curso - Passageiros,Não,Autorização da ANTAC.
+50.21-1-01,"Transporte por navegação interior de carga, municipal, exceto travessia",Não,Autorização da ANTAC.
+50.21-1-02,"Transporte por navegação interior de carga, intermunicipal, interestadual e internacional, exceto travessia",Não,Autorização da ANTAC.
+50.22-0-01,"Transporte por navegação interior de passageiros em linhas regulares, municipal, exceto travessia",Não,Autorização da ANTAC.
+50.22-0-02,"Transporte por navegação interior de passageiros em linhas regulares, intermunicipal, interestadual e internacional, exceto travessia",Não,Autorização da ANTAC.
+50.91-2-01,"Transporte por navegação de travessia, municipal",Não,Autorização da ANTAC.
+50.91-2-02,"Transporte por navegação de travessia, intermunicipal, interestadual e internacional",Não,Autorização da ANTAC.
+50.99-8-01,Transporte aquaviário para passeios turísticos,Não,Autorização da ANTAC.
+50.99-8-99,Outros transportes aquaviários não especificados anteriormente,Não,Autorização da ANTAC.
+50.30-1-01,Navegação de apoio marítimo,Não,-
+50.30-1-02,Navegação de apoio portuário,Não,-
+50.30-1-03,Serviço de rebocadores e empurradores,Não,-
+51.11-1-00,Transporte aéreo de passageiros regular,Não,-
+51.12-9-01,Serviço de táxi aéreo e locação de aeronaves com tripulação,Não,-
+51.12-9-99,Outros serviços de transporte aéreo de passageiros não regular,Não,-
+51.20-0-00,Transporte aéreo de carga,Não,Autorização da ANAC ou termo de alvará provisório
+51.30-7-00,Transporte espacial,Não,-
+52.11-7-01,Armazéns gerais - emissão de warrant,Sim***,Ocupação bombeiros para depósito
+52.11-7-02,Guarda-móveis,Não,-
+52.11-7-99,"Depósitos de mercadorias para terceiros, exceto armazéns gerais e guarda-móveis",Não,Ocupação bombeiros para depósito
+52.21-4-00,"Concessionárias de rodovias, pontes, túneis e serviços relacionados",Não,-
+52.22-2-00,Terminais rodoviários e ferroviários,Sim,-
+52.23-1-00,Estacionamento de veículos,Não,-
+52.31-1-01,Administração da infraestrutura portuária,Não,-
+52.31-1-02,Atividades do Operador Portuário,Não,-
+52.31-1-03,Gestão de terminais aquaviários,Não,-
+52.40-1-01,Operação dos aeroportos e campos de aterrissagem,Não,-
+52.50-8-01,Comissaria de despachos,Não,-
+52.12-5-00,Carga e descarga,Não,-
+52.29-0-01,"Serviços de apoio ao transporte por táxi, inclusive centrais de chamada",Não,-
+52.29-0-02,Serviços de reboque de veículos,Não,-
+52.29-0-99,Outras atividades auxiliares dos transportes terrestres não especificadas anteriormente,Não,-
+52.32-0-00,Atividades de agenciamento marítimo,Não,-
+52.39-7-01,Serviços de praticagem,Não,-
+52.39-7-99,Atividades auxiliares dos transportes aquaviários não especificadas anteriormente,Não,-
+52.40-1-99,"Atividades auxiliares dos transportes aéreos, exceto operação dos aeroportos e campos de aterrissagem",Não,-
+52.50-8-02,Atividades de despachantes aduaneiros,Não,-
+52.50-8-03,"Agenciamento de cargas, exceto para o transporte marítimo",Não,-
+52.50-8-04,Organização logística do transporte de carga,Não,-
+52.50-8-05,Operador de transporte multimodal - OTM,Não,-
+53.10-5-01,Atividades do Correio Nacional,Não,-
+53.10-5-02,Atividades de franqueadas e permissionárias do Correio Nacional,Não,-
+53.20-2-01,Serviços de malote não realizados pelo Correio Nacional,Não,-
+53.20-2-02,Serviços de entrega rápida,Não,-
+55.10-8-01,Hotéis,Sim***,Atestado de vistoria do CBMSC com ocupação de Serviço de Hospedagem.
+55.10-8-02,Apart-hotéis,Sim***,Atestado de vistoria do CBMSC com ocupação de Serviço de Hospedagem.
+55.10-8-03,Motéis,Não,Atestado de vistoria do CBMSC com ocupação de Serviço de Hospedagem.
+55.90-6-01,"Albergues, exceto assistenciais",Não,Atestado de vistoria do CBMSC com ocupação de Serviço de Hospedagem.
+55.90-6-02,Campings,Não,-
+55.90-6-03,Pensões (alojamento),Não,Atestado de vistoria do CBMSC com ocupação de Serviço de Hospedagem.
+55.90-6-99,Outros alojamentos não especificados anteriormente,Não,Atestado de vistoria do CBMSC com ocupação de Serviço de Hospedagem.
+56.11-2-01,Restaurantes e similares,Sim***,-
+56.11-2-05,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",Sim***,Laudo acústico + ART. Atestado dos bombeiros com ocupação de reunião de público
+56.11-2-03,"Lanchonetes, casas de chá, de sucos e similares",Não,-
+56.11-2-04,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",Sim***,Laudo acústico + ART. Atestado dos bombeiros com ocupação de reunião de público
+56.20-1-03,Cantinas - serviços de alimentação privativos,Não,-
+56.12-1-00,Serviços ambulantes de alimentação,Não,-
+56.20-1-01,Fornecimento de alimentos preparados preponderantemente para empresas,Não,-
+56.20-1-02,Serviços de alimentação para eventos e recepções - bufê,Não,-
+56.20-1-04,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,Não,-
+58.11-5-00,Edição de livros,Não,-
+58.12-3-01,Edição de jornais diários,Não,-
+58.12-3-02,Edição de jornais não diários,Não,-
+58.13-1-00,Edição de revistas,Não,-
+58.19-1-00,"Edição de cadastros, listas e outros produtos gráficos",Não,-
+58.21-2-00,Edição integrada à impressão de livros,Não,-
+58.22-1-01,Edição integrada à impressão de jornais diários,Não,-
+58.22-1-02,Edição integrada à impressão de jornais não diários,Não,-
+58.23-9-00,Edição integrada à impressão de revistas,Não,-
+58.29-8-00,"Edição integrada à impressão de cadastros, listas e outros produtos gráficos",Não,-
+59.11-1-01,Estúdios cinematográficos,Não,-
+59.11-1-02,Produção de filmes para publicidade,Não,-
+59.11-1-99,"Atividades de produção cinematográfica, de vídeos e de programas de televisão não especificadas anteriormente",Não,-
+59.12-0-01,Serviços de dublagem,Não,-
+59.12-0-02,Serviços de mixagem sonora em produção audiovisual,Não,-
+59.12-0-99,"Atividades de pós-produção cinematográfica, de vídeos e de programas de televisão não especificadas anteriormente",Não,-
+59.13-8-00,"Distribuição cinematográfica, de vídeo e de programas de televisão",Não,-
+59.14-6-00,Atividades de exibição cinematográfica,Não,-
+59.20-1-00,Atividades de gravação de som e de edição de música,Não,-
+60.10-1-00,Atividades de rádio,Não,Autorização da ANATEL; CMGDT
+60.21-7-00,Atividades de televisão aberta,Não,-
+60.22-5-01,Programadoras,Não,-
+60.22-5-02,"Atividades relacionadas à televisão por assinatura, exceto programadoras",Não,-
+61.10-8-01,Serviços de telefonia fixa comutada - STFC,Não,-
+61.10-8-02,Serviços de redes de transporte de telecomunicações - SRTT,Não,-
+61.10-8-03,Serviços de comunicação multimídia - SCM,Não,-
+61.10-8-99,Serviços de telecomunicações por fio não especificados anteriormente,Não,-
+61.20-5-01,Telefonia móvel celular,Não,-
+61.20-5-02,Serviço móvel especializado - SME,Não,-
+61.20-5-99,Serviços de telecomunicações sem fio não especificados anteriormente,Não,-
+61.30-2-00,Telecomunicações por satélite,Não,-
+61.41-8-00,Operadoras de televisão por assinatura por cabo,Não,-
+61.42-6-00,Operadoras de televisão por assinatura por micro-ondas,Não,-
+61.43-4-00,Operadoras de televisão por assinatura por satélite,Não,-
+61.90-6-01,Provedores de acesso às redes de comunicações,Não,-
+61.90-6-02,Provedores de voz sobre protocolo Internet - VOIP,Não,-
+61.90-6-99,Outras atividades de telecomunicações não especificadas anteriormente,Não,-
+62.01-5-01,Desenvolvimento de programas de computador sob encomenda,Não,-
+62.01-5-02,Web desing,Não,-
+62.02-3-00,Desenvolvimento e licenciamento de programas de computador customizáveis,Não,-
+62.03-1-00,Desenvolvimento e licenciamento de programas de computador não customizáveis,Não,-
+62.04-0-00,Consultoria em tecnologia da informação,Não,-
+62.09-1-00,"Suporte técnico, manutenção e outros serviços em tecnologia da informação",Não,-
+63.11-9-00,"Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na Internet",Não,-
+63.19-4-00,"Portais, provedores de conteúdo e outros serviços de informação na Internet",Não,-
+63.91-7-00,Agências de notícias,Não,-
+63.99-2-00,Outras atividades de prestação de serviços de informação não especificadas anteriormente,Não,-
+64.10-7-00,Banco Central,Não,-
+64.21-2-00,Bancos comerciais,Não,-
+64.22-1-00,"Bancos múltiplos, com carteira comercial",Não,-
+64.23-9-00,Caixas econômicas,Não,-
+64.24-7-01,Bancos cooperativos,Não,-
+64.24-7-02,Cooperativas centrais de crédito,Não,-
+64.24-7-03,Cooperativas de crédito mútuo,Não,-
+64.24-7-04,Cooperativas de crédito rural,Não,-
+64.31-0-00,"Bancos múltiplos, sem carteira comercial",Não,-
+64.32-8-00,Bancos de investimento,Não,-
+64.33-6-00,Bancos de desenvolvimento,Não,-
+64.38-7-01,Bancos de câmbio,Não,-
+64.38-7-99,Outras instituições de intermediação não monetária não especificadas anteriormente,Não,-
+64.34-4-00,Agências de fomento,Não,-
+64.35-2-01,Sociedades de crédito imobiliário,Não,-
+64.35-2-02,Associações de poupança e empréstimo,Não,-
+64.35-2-03,Companhias hipotecárias,Não,-
+64.36-1-00,"Sociedades de crédito, financiamento e investimento - financeiras",Não,-
+64.37-9-00,Sociedades de crédito ao microempreendedor,Não,-
+64.40-9-00,Arrendamento mercantil,Não,-
+64.50-6-00,Sociedades de capitalização,Não,-
+64.61-1-00,Holdings de instituições financeiras,Não,-
+64.62-0-00,Holdings de instituições não financeiras,Não,-
+64.63-8-00,"Outras sociedades de participação, exceto holdings",Não,-
+64.70-1-01,"Fundos de investimento, exceto previdenciários e imobiliários",Não,-
+64.70-1-02,Fundos de investimento previdenciários,Não,-
+64.70-1-03,Fundos de investimento imobiliários,Não,-
+64.91-3-00,Sociedades de fomento mercantil - factoring,Não,-
+64.92-1-00,Securitização de créditos,Não,-
+64.93-0-00,Administração de consórcios para aquisição de bens e direitos,Não,-
+64.99-9-01,Clubes de investimento,Não,-
+64.99-9-02,Sociedades de investimento,Não,-
+64.99-9-03,Fundo garantidor de crédito,Não,-
+64.99-9-04,Caixas de financiamento de corporações,Não,-
+64.99-9-05,Concessão de crédito pelas OSCIP,Não,-
+64.99-9-99,Outras atividades de serviços financeiros não especificadas anteriormente,Não,-
+65.11-1-01,Sociedade seguradora de seguros vida,Não,-
+65.11-1-02,Planos de auxílio-funeral,Não,-
+65.12-0-00,Sociedade seguradora de seguros não vida,Não,-
+65.20-1-00,Sociedade seguradora de seguros-saúde,Não,-
+65.30-8-00,Resseguros,Não,-
+65.41-3-00,Previdência complementar fechada,Não,-
+65.42-1-00,Previdência complementar aberta,Não,-
+65.50-2-00,Planos de saúde,Não,-
+66.11-8-01,Bolsa de valores,Não,-
+66.11-8-02,Bolsa de mercadorias,Não,-
+66.11-8-03,Bolsa de mercadorias e futuros,Não,-
+66.11-8-04,Administração de mercados de balcão organizados,Não,-
+66.12-6-01,Corretoras de títulos e valores mobiliários,Não,-
+66.12-6-02,Distribuidoras de títulos e valores mobiliários,Não,-
+66.12-6-03,Corretoras de câmbio,Não,-
+66.12-6-04,Corretoras de contratos de mercadorias,Não,-
+66.12-6-05,Agentes de investimentos em aplicações financeiras,Não,-
+66.13-4-00,Administração de cartões de crédito,Não,-
+66.19-3-01,Serviços de liquidação e custódia,Não,-
+66.19-3-02,Correspondentes de instituições financeiras,Não,-
+66.19-3-03,Representações de bancos estrangeiros,Não,-
+66.19-3-04,Caixas eletrônicos,Não,-
+66.19-3-05,Operadoras de cartões de débito,Não,-
+66.19-3-99,Outras atividades auxiliares dos serviços financeiros não especificadas anteriormente,Não,-
+66.21-5-01,Peritos e avaliadores de seguros,Não,-
+66.21-5-02,Auditoria e consultoria atuarial,Não,-
+66.22-3-00,"Corretores e agentes de seguros, de planos de previdência complementar e de saúde",Não,-
+66.29-1-00,"Atividades auxiliares dos seguros, da previdência complementar e dos planos de saúde não especificadas anteriormente",Não,-
+66.30-4-00,Atividades de administração de fundos por contrato ou comissão,Não,-
+68.10-2-01,Compra e venda de imóveis próprios,Não,-
+68.10-2-02,Aluguel de imóveis próprios,Não,-
+68.10-2-03,Loteamento de imóveis próprios,Sim,-
+68.21-8-01,Corretagem na compra e venda e avaliação de imóveis,Não,-
+68.21-8-02,Corretagem no aluguel de imóveis,Não,-
+68.22-6-00,Gestão e administração da propriedade imobiliária,Não,-
+69.11-7-01,Serviços advocatícios,Não,-
+69.11-7-02,Atividades auxiliares da justiça,Não,-
+69.11-7-03,Agente de propriedade industrial,Não,-
+69.20-6-01,Atividades de contabilidade,Não,-
+69.20-6-02,Atividades de consultoria e auditoria contábil e tributária,Não,-
+69.12-5-00,Cartórios,Não,-
+70.20-4-00,"Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica",Não,-
+71.11-1-00,Serviços de arquitetura,Não,-
+71.12-0-00,Serviços de engenharia,Não,-
+71.19-7-01,"Serviços de cartografia, topografia e geodésia",Não,-
+71.19-7-02,Atividades de estudos geológicos,Não,-
+71.19-7-03,Serviços de desenho técnico relacionados à arquitetura e engenharia,Não,-
+71.19-7-04,Serviços de perícia técnica relacionados à segurança do trabalho,Não,-
+71.19-7-99,Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente,Não,-
+71.20-1-00,Testes e análises técnicas,Não,"Caso seja uma empresa de vistoria veicular: Precisa de autorização do DETRAN. Documento obtido de forma posterior, precisa de alvará provisório"
+72.10-0-00,Pesquisa e desenvolvimento experimental em ciências físicas e naturais,Não,-
+72.20-7-00,Pesquisa e desenvolvimento experimental em ciências sociais e humanas,Não,-
+73.11-4-00,Agências de publicidade,Não,-
+73.12-2-00,"Agenciamento de espaços para publicidade, exceto em veículos de comunicação",Não,-
+73.19-0-01,Criação de estandes para feiras e exposições,Não,-
+73.19-0-02,Promoção de vendas,Não,-
+73.19-0-03,Marketing direto,Não,-
+73.19-0-04,Consultoria em publicidade,Não,-
+73.19-0-99,Outras atividades de publicidade não especificadas anteriormente,Não,-
+73.20-3-00,Pesquisas de mercado e de opinião pública,Não,-
+74.10-2-02,Design de interiores,Não,-
+74.10-2-03,Desing de produto,Não,-
+74.10-2-99,Atividades de desing não especificadas anteriormente,Não,-
+74.20-0-01,"Atividades de produção de fotografias, exceto aérea e submarina",Não,-
+74.20-0-02,Atividades de produção de fotografias aéreas e submarinas,Não,-
+74.20-0-03,Laboratórios fotográficos,Não,-
+74.20-0-04,Filmagem de festas e eventos,Não,-
+74.20-0-05,Serviços de microfilmagem,Não,-
+74.90-1-01,"Serviços de tradução, interpretação e similares",Não,-
+74.90-1-02,Escafandria e mergulho,Não,-
+74.90-1-03,Serviços de agronomia e de consultoria às atividades agrícolas e pecuárias,Não,-
+74.90-1-04,"Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários",Não,-
+74.90-1-05,"Agenciamento de profissionais para atividades esportivas, culturais e artísticas",Não,-
+74.90-1-99,"Outras atividades profissionais, científicas e técnicas não especificadas anteriormente",Não,-
+75.00-1-00,Atividades veterinárias,Sim,-
+77.11-0-00,Locação de automóveis sem condutor,Não,-
+77.19-5-01,"Locação de embarcações sem tripulação, exceto para fins recreativos",Não,-
+77.19-5-02,Locação de aeronaves sem tripulação,Não,-
+77.19-5-99,"Locação de outros meios de transporte não especificados anteriormente, sem condutor",Não,-
+77.21-7-00,Aluguel de equipamentos recreativos e esportivos,Não,-
+77.22-5-00,"Aluguel de fitas de vídeo, DVDs e similares",Não,-
+77.23-3-00,"Aluguel de objetos do vestuário, jóias e acessórios",Não,-
+77.29-2-01,Aluguel de aparelhos de jogos eletrônicos,Não,-
+77.29-2-02,"Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais",Não,-
+77.29-2-03,Aluguel de material médico,Não,-
+77.29-2-99,Aluguel de outros objetos pessoais e domésticos não especificados anteriormente,Não,-
+77.31-4-00,Aluguel de máquinas e equipamentos agrícolas sem operador,Não,-
+77.32-2-01,"Aluguel de máquinas e equipamentos para construção sem operador, exceto andaimes",Não,-
+77.32-2-02,Aluguel de andaimes,Não,-
+77.33-1-00,Aluguel de máquinas e equipamentos para escritório,Não,-
+77.39-0-01,"Aluguel de máquinas e equipamentos para extração de minérios e petróleo, sem operador",Não,-
+77.39-0-02,"Aluguel de equipamentos científicos, médicos e hospitalares, sem operador",Não,-
+77.39-0-03,"Aluguel de palcos, coberturas e outras estruturas de uso temporário, exceto andaimes",Não,-
+77.39-0-99,"Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador",Não,-
+77.40-3-00,Gestão de ativos intangíveis não financeiros,Não,-
+78.10-8-00,Seleção e agenciamento de mão de obra,Não,-
+78.20-5-00,Locação de mão de obra temporária,Não,-
+78.30-2-00,Fornecimento e gestão de recursos humanos para terceiros,Não,-
+79.11-2-00,Agências de viagens,Não,-
+79.12-1-00,Operadores turísticos,Não,-
+79.90-2-00,Serviços de reservas e outros serviços de turismo não especificados anteriormente,Não,-
+80.11-1-01,Atividades de vigilância e segurança privada,Não,-
+80.11-1-02,Serviços de adestramento de cães de guarda,Não,-
+80.12-9-00,Atividades de transporte de valores,Não,-
+80.20-0-01,Atividades de monitoramento de sistemas de segurança eletrônico,Não,-
+80.20-0-02,Outras atividades de serviços de segurança,Não,-
+80.30-7-00,Atividades de investigação particular,Não,-
+81.11-7-00,"Serviços combinados para apoio a edifícios, exceto condomínios prediais",Não,-
+81.21-4-00,Limpeza em prédios e em domicílios,Não,-
+81.29-0-00,Atividades de limpeza não especificadas anteriormente,Não,-
+81.30-3-00,Atividades paisagísticas,Não,-
+81.12-5-00,Condomínios prediais,Não,-
+81.22-2-00,Imunização e controle de pragas urbanas,Sim,-
+82.11-3-00,Serviços combinados de escritório e apoio administrativo,Não,-
+82.19-9-01,Fotocópias,Não,-
+82.19-9-99,Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente,Não,-
+82.20-2-00,Atividades de teleatendimento,Não,-
+82.30-0-01,"Serviços de organização de feiras, congressos, exposições e festas",Não,-
+82.91-1-00,Atividades de cobrança e informações cadastrais,Não,-
+82.99-7-01,"Medição de consumo de energia elétrica, gás e água",Não,-
+82.99-7-02,"Emissão de vales-alimentação, vales-transporte e similares",Não,-
+82.99-7-03,"Serviços de gravação de carimbos, exceto confecção",Não,-
+82.99-7-04,Leiloeiros independentes,Não,-
+82.99-7-05,Serviços de levantamento de fundos sob contrato,Não,-
+82.99-7-99,Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente,Não,"Caso seja uma empresa de vistoria veicular: Precisa de autorização do DETRAN. Documento obtido de forma posterior, precisa de alvará provisório"
+82.30-0-02,Casas de festas e eventos,Não,Laudo acustico + ART. Bombeiros para reunião de público. CMGDT
+82.99-7-06,Casas lotéricas,Não,Autorização da CAIXA ECONÕMICA FEDERAL
+82.92-0-00,Envasamento e empacotamento sob contrato,Não,-
+82.99-7-07,Salas de acesso à Internet,Não,-
+84.11-6-00,Administração pública em geral,Não,-
+84.12-4-00,"Regulação das atividades de saúde, educação, serviços culturais e outros serviços sociais",Não,-
+84.13-2-00,Regulação das atividades econômicas,Não,-
+84.21-3-00,Relações exteriores,Não,-
+84.22-1-00,Defesa,Não,-
+84.23-0-00,Justiça,Não,-
+84.24-8-00,Segurança e ordem pública,Não,-
+84.25-6-00,Defesa Civil,Não,-
+84.30-2-00,Seguridade social obrigatória,Não,-
+85.11-2-00,Educação infantil - creche,Não,Certificado do Conselho Municipal de Educação (COMED) - Alvará Provisório - CMGDT acima de 300m2
+85.12-1-00,Educação infantil - pré-escola,Não,Certificado do Conselho Municipal de Educação (COMED) - Alvará Provisório - CMGDT acima de 300m2
+85.13-9-00,Ensino fundamental,Não,Ocupação escolar bombeiros
+85.20-1-00,Ensino médio,Não,Ocupação escolar bombeiros
+85.31-7-00,Educação superior - graduação,Não,-
+85.32-5-00,Educação superior - graduação e pós-graduação,Não,-
+85.33-3-00,Educação superior - pós-graduação e extensão,Não,-
+85.41-4-00,Educação profissional de nível técnico,Não,-
+85.42-2-00,Educação profissional de nível tecnológico,Não,-
+85.50-3-01,Administração de caixas escolares,Não,-
+85.50-3-02,"Atividades de apoio à educação, exceto caixas escolares",Não,-
+85.91-1-00,Ensino de esportes,Não,Ocupação escolar bombeiros
+85.92-9-01,Ensino de dança,Não,Ocupação escolar bombeiros
+85.92-9-02,"Ensino de artes cênicas, exceto dança",Não,Ocupação escolar bombeiros
+85.92-9-03,Ensino de música,Não,Ocupação escolar bombeiros
+85.92-9-99,Ensino de arte e cultura não especificado anteriormente,Não,Ocupação escolar bombeiros
+85.93-7-00,Ensino de idiomas,Não,Ocupação escolar bombeiros
+85.99-6-01,Formação de condutores,Não,-
+85.99-6-02,Cursos de pilotagem,Não,-
+85.99-6-03,Treinamento em informática,Não,-
+85.99-6-04,Treinamento em desenvolvimento profissional e gerencial,Não,-
+85.99-6-05,Cursos preparatórios para concursos,Não,-
+85.99-6-99,Outras atividades de ensino não especificadas anteriormente,Não,Ocupação escolar bombeiros
+86.10-1-01,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",Sim,-
+86.10-1-02,Atividades de atendimento em pronto-socorro e unidades hospitalares para atendimento a urgências,Sim,-
+86.30-5-01,Atividade médica ambulatorial com recursos para realização de procedimentos cirúrgicos,Sim,-
+86.30-5-02,Atividade médica ambulatorial com recursos para realização de exames complementares,Sim,-
+86.30-5-04,Atividade odontológica,Sim,-
+86.30-5-06,Serviços de vacinação e imunização humana,Sim,-
+86.30-5-07,Atividades de reprodução humana assistida,Sim,-
+86.30-5-99,Atividades de atenção ambulatorial não especificadas anteriormente,Sim,-
+86.40-2-01,Laboratórios de anatomia patológica e citológica,Sim,-
+86.40-2-02,Laboratórios clínicos,Sim,-
+86.40-2-03,Serviços de diálise e nefrologia,Sim,-
+86.40-2-04,Serviços de tomografia,Sim,-
+86.40-2-05,"Serviços de diagnóstico por imagem com uso de radiação ionizante, exceto tomografia",Sim,-
+86.40-2-06,Serviços de ressonância magnética,Sim,-
+86.40-2-07,"Serviços de diagnóstico por imagem sem uso de radiação ionizante, exceto ressonância magnética",Sim,-
+86.40-2-08,"Serviços de diagnóstico por registro gráfico - ECG, EEG e outros exames análogos",Sim,-
+86.40-2-09,Serviços de diagnóstico por métodos ópticos - endoscopia e outros exames análogos,Sim,-
+86.40-2-10,Serviços de quimioterapia,Sim,-
+86.40-2-11,Serviços de radioterapia,Sim,-
+86.40-2-12,Serviços de hemoterapia,Sim,-
+86.40-2-13,Serviços de litotripsia,Sim,-
+86.40-2-14,Serviços de bancos de células e tecidos humanos,Sim,-
+86.40-2-99,Atividades de serviços de complementação diagnóstica e terapêutica não especificadas anteriormente,Não,-
+86.21-6-01,UTI móvel,Não,-
+86.21-6-02,"Serviços móveis de atendimento a urgências, exceto por UTI móvel",Não,-
+86.22-4-00,"Serviços de remoção de pacientes, exceto os serviços móveis de atendimento a urgências",Não,-
+86.30-5-03,Atividade médica ambulatorial restrita a consultas,Sim,-
+86.50-0-01,Atividades de enfermagem,Não,-
+86.50-0-02,Atividades de profissionais da nutrição,Não,-
+86.50-0-03,Atividades de psicologia e psicanálise,Não,-
+86.50-0-04,Atividades de fisioterapia,Não,-
+86.50-0-05,Atividades de terapia ocupacional,Não,-
+86.50-0-06,Atividades de fonoaudiologia,Não,-
+86.50-0-07,Atividades de terapia de nutrição enteral e parenteral,Não,-
+86.50-0-99,Atividades de profissionais da área de saúde não especificadas anteriormente,Não,-
+86.60-7-00,Atividades de apoio à gestão de saúde,Não,-
+86.90-9-01,Atividades de práticas integrativas e complementares em saúde humana,Não,-
+86.90-9-02,Atividades de bancos de leite humano,Sim***,-
+86.90-9-03,Atividades de acupuntura,Não,-
+86.90-9-04,Atividades de podologia,Não,-
+86.90-9-99,Outras atividades de atenção à saúde humana não especificadas anteriormente,Não,-
+87.11-5-01,Clínicas e residências geriátricas,Não,-
+87.11-5-02,Instituições de longa permanência para idosos,Não,-
+87.11-5-05,Condomínios residenciais para idosos,Não,-
+87.30-1-01,Orfanatos,Não,CMGDT
+87.30-1-02,Albergues assistenciais,Não,CMGDT
+87.11-5-03,"Atividades de assistência a deficientes físicos, imunodeprimidos e convalescentes",Não,-
+87.11-5-04,Centros de apoio a pacientes com câncer e com AIDS,Não,-
+87.12-3-00,Atividades de fornecimento de infraestrutura de apoio e assistência a paciente no domicílio,Não,-
+87.30-1-99,Atividades de assistência social prestadas em residências coletivas e particulares não especificadas anteriormente,Não,-
+87.20-4-01,Atividades de centros de assistência psicossocial,Não,-
+87.20-4-99,"Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos, deficiência mental e dependência química e grupos similares não especificadas anteriormente",Não,-
+88.00-6-00,Serviços de assistência social sem alojamento,Não,-
+90.01-9-01,Produção teatral,Não,-
+90.01-9-02,Produção musical,Não,-
+90.01-9-03,Produção de espetáculos de dança,Não,-
+90.01-9-04,"Produção de espetáculos circenses, de marionetes e similares",Não,-
+90.01-9-05,"Produção de espetáculos de rodeios, vaquejadas e similares",Não,-
+90.01-9-06,Atividades de sonorização e de iluminação,Não,-
+90.01-9-99,"Artes cênicas, espetáculos e atividades complementares não especificados anteriormente",Não,-
+90.02-7-01,"Atividades de artistas plásticos, jornalistas independentes e escritores",Não,-
+90.02-7-02,Restauração de obras de arte,Não,-
+90.03-5-00,"Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas",Não,-
+91.01-5-00,Atividades de bibliotecas e arquivos,Não,-
+91.02-3-01,Atividades de museus e de exploração de lugares e prédios históricos e atrações similares,Não,-
+91.02-3-02,Restauração e conservação de lugares e prédios históricos,Não,-
+91.03-1-00,"Atividades de jardins botânicos, zoológicos, parques nacionais, reservas ecológicas e áreas de proteção ambiental",Não,-
+92.00-3-01,Casas de bingo,Não,-
+92.00-3-02,Exploração de apostas em corridas de cavalos,Não,-
+92.00-3-99,Exploração de jogos de azar e apostas não especificados anteriormente,Não,-
+93.11-5-00,Gestão de instalações de esportes,Não,-
+93.13-1-00,Atividades de condicionamento físico,Não,Academia: Laudo acustico + ART
+93.19-1-01,Produção e promoção de eventos esportivos,Não,-
+93.19-1-99,Outras atividades esportivas não especificadas anteriormente,Não,-
+93.29-8-99,Outras atividades de recreação e lazer não especificadas anteriormente,Não,-
+93.12-3-00,"Clubes sociais, esportivos e similares",Não,Laudo acustico + ART.
+93.21-2-00,Parques de diversão e parques temáticos,Não,-
+93.29-8-01,"Discotecas, danceterias, salões de dança e similares",Não,-
+93.29-8-02,Exploração de boliches,Não,-
+93.29-8-03,"Exploração de jogos de sinuca, bilhar e similares",Não,-
+93.29-8-04,Exploração de jogos eletrônicos recreativos,Não,-
+94.11-1-00,Atividades de organizações associativas patronais e empresariais,Não,-
+94.12-0-01,Atividades de fiscalização profissional,Não,-
+94.12-0-99,Outras atividades associativas profissionais,Não,-
+94.20-1-00,Atividades de organizações sindicais,Não,-
+94.30-8-00,Atividades de associações de defesa de direitos sociais,Não,Pais e professores: Autorização da diretora da escola para usar as dependências do colégio. Ocupação bobmeiros: escoalr
+94.91-0-00,Atividades de organizações religiosas ou filosóficas,Não, CMGDT acima de 300m2 - Laudo acústico + ART
+94.92-8-00,Atividades de organizações políticas,Não,-
+94.93-6-00,Atividades de organizações associativas ligadas à cultura e à arte,Não,Pais e professores: Autorização da diretora da escola para usar as dependências do colégio. Ocupação bobmeiros: escoalr
+94.99-5-00,Atividades associativas não especificadas anteriormente,Não,Pais e professores: Autorização da diretora da escola para usar as dependências do colégio. Ocupação bobmeiros: escoalr
+95.11-8-00,Reparação e manutenção de computadores e de equipamentos periféricos,Não,-
+95.12-6-00,Reparação e manutenção de equipamentos de comunicação,Não,-
+95.21-5-00,Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico,Não,-
+95.29-1-01,"Reparação de calçados, bolsas e artigos de viagem",Não,-
+95.29-1-02,Chaveiros,Não,-
+95.29-1-03,Reparação de relógios,Não,-
+95.29-1-04,"Reparação de bicicletas, triciclos e outros veículos não motorizados",Não,-
+95.29-1-05,Reparação de artigos do mobiliário,Não,-
+95.29-1-06,Reparação de jóias,Não,-
+95.29-1-99,Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente,Não,-
+96.01-7-01,Lavanderias,Sim,-
+96.09-2-06,Serviços de tatuagem e colocação de piercing,Não,-
+96.01-7-02,Tinturarias,Não,-
+96.01-7-03,Toalheiros,Não,-
+96.09-2-05,Atividades de sauna e banhos,Não,-
+96.02-5-01,"Cabeleireiros, manicure e pedicure",Não,-
+96.02-5-02,Atividades de estética e outros serviços de cuidados com a beleza,Não,-
+96.09-2-02,Agências matrimoniais,Não,-
+96.09-2-07,Alojamento de animais domésticos,Não,-
+96.09-2-08,Higiene e embelezamento de animais domésticos,Não,-
+96.09-2-99,Outras atividades de serviços pessoais não especificadas anteriormente,Não,-
+96.03-3-01,Gestão e manutenção de cemitérios,Sim,-
+96.03-3-02,Serviços de cremação,Sim,-
+96.03-3-03,Serviços de sepultamento,Sim,-
+96.03-3-04,Serviços de funerárias,Sim,-
+96.03-3-05,Serviços de somatoconservação,Sim,-
+96.03-3-99,Atividades funerárias e serviços relacionados não especificados anteriormente,Sim,-
+96.09-2-04,Exploração de máquinas de serviços pessoais acionadas por moeda,Não,-
+97.00-5-00,Serviços domésticos,Não,-
+99.00-8-00,Organismos internacionais e outras instituições extraterritoriais,Não,-
