@@ -12,7 +12,7 @@ import os
 ## INPUTS DA PÁGINA DO STREAMLIT ##
 
 st.set_page_config(
-     page_title="PMI - Empresas Alvará de Funcionamento",
+     page_title="PMI - Confere processo ALF",
      page_icon=('./dados/favicon.png'),
  )
 
@@ -89,43 +89,7 @@ if texto_aprova != "":
 
 
 else:
-    cnpj_aprova =""
-#______________________________________________________________________________________________________________________
-
-## EXTRAI INFORMAÇÕES DO REGIN ##
-
-# Input box do REGIN
-texto_regin = st.sidebar.text_input('CTRL + V do REGIN:','',key="inputbox2")
-
-if texto_regin != "":
-    #Extrai informações do REGIN
-
-    texto_regin_split = re.sub(' +', ' ',texto_regin).split(' ')
-
-    itens_analise=['Código','NOMES', 'SMU', 'SANITÁRIA']
-    index1=texto_regin_split.index('Código')
-    index2=texto_regin_split.index('NOMES')
-
-    trecho_regin_cnaes = " ".join(texto_regin_split[index1:index2])
-    cnaes_regin = re.findall(r'\d\d\d\d\d\d\d', trecho_regin_cnaes)
-
-    cnaes_formatados_regin=[]
-    count=0
-    for cnae in cnaes_regin:
-    
-        format_cnae = cnae[:2]+'.'+cnae[2:4]+'-'+cnae[4:5]+'-'+cnae[5:]
-        cnaes_formatados_regin.append(format_cnae)
-        count+=1
-
-    index3=texto_regin_split.index('LOCALIZAÇÃO')+1
-    index4=texto_regin_split.index('ITAJAI')
-    endereco_regin = " ".join(texto_regin_split[index3:index4])
-    
-    index5=texto_regin_split.index('SMU')+1
-    index6=texto_regin_split.index('SANITÁRIA')-11
-    despacho_regin = " ".join(texto_regin_split[index5:index6])
-    
-       
+    cnpj_aprova =""       
 
 #______________________________________________________________________________________________________________________
 
