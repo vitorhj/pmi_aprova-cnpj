@@ -150,9 +150,6 @@ st.sidebar.button("Limpar", on_click=clear_text)
 st.title('Confere processos ALF')
 if (texto_aprova or somente_cnpj) == '':
      st.markdown('<<< Copie e cole as informações na barra lateral esquerda.')
-     st.subheader(str('Links úteis'))
-     st.markdown('CNPJ: '+str('https://servicos.receita.fazenda.gov.br/servicos/cnpjreva/cnpjreva_solicitacao.asp'))
-     st.markdown('REGIN: '+str('http://regin.jucesc.sc.gov.br/regin.externo/CON_ViabilidadeSelecaoExternoV4.aspx?'))
      
 #_____________________________________________________________________________________________________________________
  
