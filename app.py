@@ -201,10 +201,10 @@ try:
             st.text('Conferência dos CNAEs do CNPJ com o APROVA: VERIFICAR! CNAES não coincidem.')
                 
       
-        st.text('ATENÇÃO! Verifique manualmente se não houve inserção REPETIDA de CNAES no Aprova Digital. Abaixo o número de atividades por valores únicos (exclui repetidos)')
-        nome_contagem = pd.Series(['Aprova Digital', 'Cartão CNPJ'])      
-        n_cnaes=([len(cnaes_aprova),len(cnaes_cnpj)
-        st.dataframe({'LOCAL':nome_contagem,'Nº DE CNAES':n_cnaes})
+        #st.text('ATENÇÃO! Verifique manualmente se não houve inserção REPETIDA de CNAES no Aprova Digital. Abaixo o número de atividades por valores únicos (exclui repetidos)')
+        #nome_contagem = pd.Series(['Aprova Digital', 'Cartão CNPJ'])      
+        #n_cnaes=([len(cnaes_aprova),len(cnaes_cnpj)
+        #st.dataframe({'LOCAL':nome_contagem,'Nº DE CNAES':n_cnaes})
 
             
         if (set(cnaes_cnpj) == set(cnaes_aprova)):
