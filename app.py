@@ -153,74 +153,6 @@ if (texto_aprova) == '':
      
 #_____________________________________________________________________________________________________________________
  
-## PÁGINA - SOMENTE CNPJ ##  
-
-try:
-     if somente_cnpj != "":
-          st.subheader(str('Dados do cartão CNPJ'))
-          #st.text('CNPJ: '+numero_cnpj2)
-          st.markdown('RAZÃO SOCIAL: '+razao_social_cnpj2)
-          #st.markdown('CNPJ: '+numero_cnpj2)
-          st.markdown('ENDEREÇO: '+logradouro_cnpj2+', '+numeropredial_cnpj2+', '+bairro_cnpj2+' '+complemento_cnpj2)
-          st.subheader('Verificação das atividades e documentação específica')
-          
-          tabela_cnaes = pd.read_csv('./dados/grau_risco_maio_2021.xlsx - Página2.csv', sep=',')
-          
-          
-          cnaes_cnpj2 = pd.DataFrame(cnaes_cnpj2)
-        
-          nova_tabela=tabela_cnaes.merge(cnaes_cnpj2,left_on='codigo', right_on=0)
-          nova_tabela.drop([0], axis=1, inplace=True)
-          nova_tabela
-        
-          #Verificação armas de fogo
-        
-          cnae1 = '47.89-0-09'
-          if cnae1 in cnaes_cnpj2:
-               st.text('*** APRESENTA CNAE para comércio de ARMAS DE FOGO, solicitar documentação extra.')
-          if cnae1 not in cnaes_cnpj2:
-               st.text('*** NÃO apresenta CNAE para comércio de armas de fogo.')     
-            
-          #Verificação SPE
-        
-          cnae2 = '41.10-7-00'      
-          cnae3 = '41.20-4-00'
-        
-          if (cnae2 or cnae3) in cnaes_cnpj2:
-             st.text('*** APRESENTA CNAE para construção ou incorporação, verificar se é uma SPE.')
-          if (cnae2 or cnae3) not in cnaes_cnpj2:
-             st.text('*** NÃO apresenta CNAE para incorporação imobiliária ou construção (SPE).')
-
-          #Verificação transporte escolar
-        
-          cnae4 = '49.24-8-00'
-          if cnae4 in cnaes_cnpj2:
-              st.text('*** APRESENTA CNAE para TRANSPORTE ESCOLAR, solicitar documentação extra.')
-          if cnae4 not in cnaes_cnpj2:
-              st.text('*** NÃO apresenta CNAE para transporte escolar.')
-            
-          #Verificação transporte por cabotagem
-          cnae5 = '50.11-4-02'
-          if cnae5 in cnaes_cnpj2:
-              st.text('*** APRESENTA CNAE para transporte por CABOTAGEM, solicitar autorização da ANTAC.')
-          if cnae5 not in cnaes_cnpj2:
-              st.text('*** NÃO apresenta CNAE para transporte de cabotagem.')
-          
-          st.subheader('Verificação do grau de risco')
-          tabela_risco = pd.read_csv('./dados/Decreto 11.985 - Grau de risco.csv', sep=',')
-          
-          cnaes_cnpj2 = pd.DataFrame(cnaes_cnpj2)        
-          nova_tabela2=tabela_risco.merge(cnaes_cnpj2,left_on='CÓDIGO', right_on=0)
-          nova_tabela2.drop([0], axis=1, inplace=True)
-          nova_tabela2
-          
-except:
-  pass
-
-
-
-#_____________________________________________________________________________________________________________________
-
 ## PÁGINA - CONFERÊNCIA DO PROCESSO ##
 
 try:
@@ -234,7 +166,6 @@ try:
         endereço_split = re.sub(' +', ' ',logradouro_aprova).split(' ')
         logradouro_google = "+".join(endereço_split)
         st.markdown('MAPS: '+str('https://www.google.com/maps/place/')+logradouro_google+str(',+')+str(numero_aprova)+str('+,+Itaja%C3%AD+-+SC'))
-        st.markdown('VIABILIDADE: '+str('https://geoitajai.github.io/geo/consultaalvara.html#')+inscricao_aprova[0:3]+inscricao_aprova[4:7]+inscricao_aprova[11:15])
         
         #Printa a verificação do cnpj
         st.text('____________________________________________________________________________________________________________')
@@ -259,36 +190,27 @@ try:
         st.text('** Verifique manualmente os endereços abaixo:')
         st.text('Endereço no APROVA: '+logradouro_aprova+', '+bairro_aprova+', '+numero_aprova+', '+complemento1_aprova+', '+complemento2_aprova+', '+complemento3_aprova)
         st.text('Endereço no CNPJ: '+logradouro_cnpj+', '+bairro_cnpj+', '+numeropredial_cnpj+', '+complemento_cnpj)
-        st.text('Endereço no REGIN: '+endereco_regin)
 
         #Printa a verificação dos cnaes
         st.text('____________________________________________________________________________________________________________')
         st.subheader('Verificação dos CNAES')
 
-        if (set(cnaes_cnpj) == set(cnaes_formatados_regin)):
-             st.text('Conferência dos CNAEs do CNPJ com o REGIN: Ok! CNAES coincidem.')
-        else:
-            st.text('Conferência dos CNAEs do CNPJ com o REGIN: VERIFICAR! CNAES não coincidem.')
 
         if (set(cnaes_cnpj) == set(cnaes_aprova)):
              st.text('Conferência dos CNAEs do CNPJ com o APROVA: Ok! CNAES coincidem.')
         else:
             st.text('Conferência dos CNAEs do CNPJ com o APROVA: VERIFICAR! CNAES não coincidem.')
                 
-        if (set(cnaes_formatados_regin) == set(cnaes_aprova)):
-            st.text('Conferência dos CNAEs do APROVA com o REGIN: Ok! CNAES coincidem.')
-        else:
-            st.text('Conferência dos CNAEs do APROVA com o REGIN: VERIFICAR! CNAES não coincidem.')
-
+      
         st.text('ATENÇÃO! Verifique manualmente se não houve inserção REPETIDA de CNAES no Aprova Digital. Abaixo o número de atividades por valores únicos (exclui repetidos)')
         nome_contagem = pd.Series(['Aprova Digital', 'Cartão CNPJ', 'REGIN'])      
-        n_cnaes=([len(cnaes_aprova),len(cnaes_cnpj),len(cnaes_formatados_regin)])
+        n_cnaes=([len(cnaes_aprova),len(cnaes_cnpj)
         st.dataframe({'LOCAL':nome_contagem,'Nº DE CNAES':n_cnaes})
 
             
-        if (set(cnaes_formatados_regin) == set(cnaes_aprova)):
+        if (set(cnaes_cnpj) == set(cnaes_aprova)):
             st.text('TABELA DE CNAES')
-            tabela_cnaes = pd.DataFrame({ 'CNAES APROVA': cnaes_aprova, 'CNAES CNPJ': cnaes_cnpj, 'CNAES REGIN': cnaes_formatados_regin })
+            tabela_cnaes = pd.DataFrame({ 'CNAES APROVA': cnaes_aprova, 'CNAES CNPJ': cnaes_cnpj })
             st.dataframe(tabela_cnaes)
         else:
             st.text('   ** CNAE principal: '+cnaes_cnpj[0])
@@ -304,47 +226,6 @@ try:
             st.text('CNAES do REGIN')
             st.dataframe(cnaes_formatados_regin)
             
-        #Printa verificação REGIN
-        st.text('____________________________________________________________________________________________________________')
-        st.subheader('Verificação do REGIN')
-        
-        st.text('DESPACHO REGIN:')
-        st.text(str(despacho_regin))
-        
-        despacho_regin_split = re.sub(' +', ' ',despacho_regin).split(' ')
-        
-        EV = 'COMPARTILHADO'
-        if EV in despacho_regin_split:
-            st.text('*** ESCRITÓRIO VIRTUAL.')
-       
-        REF = 'REFERÊNCIA'
-        if REF in despacho_regin_split:
-            st.text('*** REFERÊNCIA FISCAL EM RESIDÊNCIA')
-        
-        LIC = 'Licenciamento'
-        if LIC in despacho_regin_split:
-            st.text('*** LICENCIAMENTO AMBIENTAL.')
-           
-        PAR = 'PARECER'
-        if PAR in despacho_regin_split:
-            st.text('*** PARECER DA DEFESA CIVIL.')
-            
-        ESC = 'ESCRITÓRIO'
-        if ESC in despacho_regin_split:
-            st.text('*** DECLARAÇÃO DE ESCRITÓRIO.')
-        
-        COM = 'COMED'
-        if COM in despacho_regin_split:
-            st.text('*** COMED.')
-            
-        cnove = '9'
-        cdez = '10'
-        cnovedois = '9-'
-        cdezdois = '10-'
-        
-        if (cnove or cnovedois or cdez or cdezdois) in despacho_regin_split:
-            st.text('*** DOCUMENTOS/ SOLICITAÇÕES COMPLEMENTARES. (CAMPOS 9 E 10) ')
-
         #Printa outras verificações
         st.text('____________________________________________________________________________________________________________')
         st.subheader('Verificação de documentos complementares')
