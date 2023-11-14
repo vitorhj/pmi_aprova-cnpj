@@ -191,24 +191,12 @@ st.sidebar.button("Limpar", on_click=clear_text)
 
 ## ESTRUTURA PAGINA VERIFICAÇÃO DE PROCESSOS ##
 
-st.title('PMI - ALVARÁ EMPRESAS')
+st.title('Confere processos ALF')
 if (texto_aprova or somente_cnpj) == '':
      st.markdown('<<< Copie e cole as informações na barra lateral esquerda.')
      st.subheader(str('Links úteis'))
-     st.markdown('APROVA: '+str('https://itajai.prefeituras.net/login'))
      st.markdown('CNPJ: '+str('https://servicos.receita.fazenda.gov.br/servicos/cnpjreva/cnpjreva_solicitacao.asp'))
      st.markdown('REGIN: '+str('http://regin.jucesc.sc.gov.br/regin.externo/CON_ViabilidadeSelecaoExternoV4.aspx?'))
-     st.markdown('GEO: '+str('https://arcgis.itajai.sc.gov.br/geoitajai/plantacadastral/plantacadastral.html'))
-     st.markdown('CBMSC: '+str('https://sigat.cbm.sc.gov.br/sigat/modulos/solicitacoes/acessocidadao2.php'))
-     st.markdown('CBMSC NOVO: '+str('https://esci.cbm.sc.gov.br/Safe/PublicoExterno/ControllerConferenciaDigital/'))
-     st.markdown('PMI ALVARÁ: '+str('https://portaldocidadao.itajai.sc.gov.br/servico_link/7'))
-     st.markdown('PMI TERMO ÚNICO: '+str('https://portaldocidadao.itajai.sc.gov.br/servico.php?id=89'))
-     st.markdown('ALVARÁ PROVISÓRIO: '+str('https://portaldocidadao.itajai.sc.gov.br/c/88'))
-     st.markdown('DRIVE: '+str('https://drive.google.com/drive/folders/1LfDRxkb8Tv6fspqjBGuToB0xAQO-xGDv?usp=sharing'))
-     st.markdown('APP CMGDT: '+str('https://arcgis.itajai.sc.gov.br/portal/apps/webappviewer/index.html?id=c7fefa2b76864a969ee922add9e02fd3#'))
-     st.markdown('APP SETORES: '+str('https://arcgis.itajai.sc.gov.br/portal/apps/webappviewer/index.html?id=ab4e19d77cc547968dce80dce054d8db'))
-     st.markdown('MEI: '+str('https://docs.google.com/spreadsheets/d/1bnRz4OJd5IAaZ5QtXHT0gxf2w3WPnMprbsG1WLdyenc/edit?usp=sharing'))
-     st.markdown('ESCRITÓRIOS VIRTUAIS: '+str('https://docs.google.com/spreadsheets/d/1J0gHPYf69kp0F9flnAQBqPf8rQ0ScrUVoHN7vxEij30/edit?usp=sharing'))
      
 #_____________________________________________________________________________________________________________________
  
