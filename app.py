@@ -87,8 +87,6 @@ if texto_aprova != "":
     trecho_aprova_cnpj = " ".join(trecho_aprova_split4)
     cnpj_aprova = re.findall(r'\d\d.\d\d\d.\d\d\d/\d\d\d\d-\d\d', trecho_aprova_cnpj)
 
-     st.dataframe(cnpj_aprova)
-
 
 else:
     cnpj_aprova =""       
