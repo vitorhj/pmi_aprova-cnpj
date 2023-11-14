@@ -239,8 +239,7 @@ try:
         cnae1 = '47.89-0-09'
         if cnae1 in cnaes_aprova:
             st.text('*** APRESENTA CNAE para comércio de ARMAS DE FOGO, solicitar documentação extra.')
-        if cnae1 not in cnaes_aprova:
-            st.text('*** NÃO apresenta CNAE para comércio de armas de fogo.')     
+  
             
         #Verificação SPE
         
@@ -249,23 +248,20 @@ try:
         
         if (cnae2 or cnae3) in cnaes_aprova:
            st.text('*** APRESENTA CNAE para construção ou incorporação, verificar se é uma SPE.')
-        if (cnae2 or cnae3) not in cnaes_aprova:
-           st.text('*** NÃO apresenta CNAE para incorporação imobiliária ou construção (SPE).')
+
 
         #Verificação transporte escolar
         
         cnae4 = '49.24-8-00'
         if cnae4 in cnaes_cnpj:
             st.text('*** APRESENTA CNAE para TRANSPORTE ESCOLAR, solicitar documentação extra.')
-        if cnae4 not in cnaes_cnpj:
-            st.text('*** NÃO apresenta CNAE para transporte escolar.')
+
             
         #Verificação transporte por cabotagem
         cnae5 = '50.11-4-02'
         if cnae5 in cnaes_cnpj:
             st.text('*** APRESENTA CNAE para transporte por CABOTAGEM, solicitar autorização da ANTAC.')
-        if cnae5 not in cnaes_cnpj:
-            st.text('*** NÃO apresenta CNAE para transporte de cabotagem.')
+
                
         #Printa outras verificações
         st.text('____________________________________________________________________________________________________________')
