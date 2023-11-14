@@ -154,7 +154,7 @@ if (texto_aprova) == '':
 ## PÁGINA - CONFERÊNCIA DO PROCESSO ##
 st.dataframe(cnaes_cnpj)
 st.dataframe(cnaes_aprova)
-try:
+#try:
     if texto_aprova != "":
         #Printa o resumo do processo
         st.text('____________________________________________________________________________________________________________')
@@ -282,5 +282,5 @@ try:
      
         
         
-except:
+#except:
   #pass
