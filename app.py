@@ -96,7 +96,7 @@ else:
 ## EXTRAI INFORMAÇÕES DO CNPJ ##
 
 # Input box do CNPJ
-texto_cnpj = st.sidebar.text_input('CTRL + V do CNPJ:','',key="inputbox3")
+texto_cnpj = st.sidebar.text_input('CTRL + V do CNPJ:','',key="inputbox2")
 
 if texto_cnpj != "":
     cnaes_cnpj = re.findall(r'\d\d.\d\d-\d-\d\d', texto_cnpj)
@@ -138,8 +138,6 @@ if texto_cnpj != "":
 def clear_text():
     st.session_state["inputbox1"] = ""
     st.session_state["inputbox2"] = ""
-    st.session_state["inputbox3"] = ""
-    st.session_state["inputbox4"] = ""
 st.sidebar.button("Limpar", on_click=clear_text)
 
      
