@@ -148,7 +148,7 @@ st.sidebar.button("Limpar", on_click=clear_text)
 ## ESTRUTURA PAGINA VERIFICAÇÃO DE PROCESSOS ##
 
 st.title('Confere processos ALF')
-if (texto_aprova or somente_cnpj) == '':
+if (texto_aprova) == '':
      st.text(str('<<< Copie e cole as informações na barra lateral esquerda.'))
      
 #_____________________________________________________________________________________________________________________
