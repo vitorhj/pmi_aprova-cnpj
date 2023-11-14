@@ -203,7 +203,7 @@ try:
                 
       
         st.text('ATENÇÃO! Verifique manualmente se não houve inserção REPETIDA de CNAES no Aprova Digital. Abaixo o número de atividades por valores únicos (exclui repetidos)')
-        nome_contagem = pd.Series(['Aprova Digital', 'Cartão CNPJ', 'REGIN'])      
+        nome_contagem = pd.Series(['Aprova Digital', 'Cartão CNPJ'])      
         n_cnaes=([len(cnaes_aprova),len(cnaes_cnpj)
         st.dataframe({'LOCAL':nome_contagem,'Nº DE CNAES':n_cnaes})
 
@@ -223,8 +223,6 @@ try:
             st.dataframe(cnaes_aprova)
             st.text('CNAES do CNPJ')
             st.dataframe(cnaes_cnpj)
-            st.text('CNAES do REGIN')
-            st.dataframe(cnaes_formatados_regin)
             
         #Printa outras verificações
         st.text('____________________________________________________________________________________________________________')
