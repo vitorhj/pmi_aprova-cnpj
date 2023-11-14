@@ -155,7 +155,7 @@ if (texto_aprova) == '':
 st.dataframe(cnaes_cnpj)
 st.dataframe(cnaes_aprova)
 #try:
-    if texto_aprova != "":
+    #if texto_aprova != "":
         #Printa o resumo do processo
         st.text('____________________________________________________________________________________________________________')
         st.subheader('Resumo do processo')
