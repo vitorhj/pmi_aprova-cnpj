@@ -149,7 +149,7 @@ st.sidebar.button("Limpar", on_click=clear_text)
 
 st.title('Confere processos ALF')
 if (texto_aprova) == '':
-     st.text(str('<<< Copie e cole as informações na barra lateral esquerda.'))
+     st.markdown(str('<<< Copie e cole as informações na barra lateral esquerda.'))
      
 #_____________________________________________________________________________________________________________________
  
