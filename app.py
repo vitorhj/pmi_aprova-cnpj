@@ -154,7 +154,8 @@ if (texto_aprova) == '':
 #_____________________________________________________________________________________________________________________
  
 ## PÁGINA - CONFERÊNCIA DO PROCESSO ##
-
+cnaes_cnpj
+cnaes_aprova
 try:
     if texto_aprova != "":
         #Printa o resumo do processo
